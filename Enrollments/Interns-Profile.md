@@ -14,7 +14,7 @@ Vaishnav Charde 9156974531
 9. Sahil Bhusari - CSE (DS) sahilbhusari11@gmail.com 8484080671
 10. Aditi Kapse - aditi17032003@gmail.com 7588090356
 
-### YCCE - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com>
+### YCCE - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
 11. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728
 12. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
 13. Yachana Mahant CT-A 		yachanamahant@gmail.com	9765334656
