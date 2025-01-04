@@ -10,6 +10,7 @@
 #### Use Cases Project
 - Number of Use Cases: 7
 - Members per Use Case: 3
+- Brainstom: Use Case Ideas
 
 #### Rewards:
 - Recognize Students with top Performance: Monthly basis
