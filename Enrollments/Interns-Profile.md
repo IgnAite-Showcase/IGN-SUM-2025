@@ -1,3 +1,6 @@
+### Other
+Vaidehi Karemore Vaidehikaremore11@gmail.com 90496 46491
+
 ### SVP Students
 1. Sakshi Kasture A CE sakshikasture11@gmail.com 7822020552
 2. Gargi Fating A gargif47@gmail.com 08208165733
@@ -11,3 +14,17 @@
 10. Aditi Kapse - aditi17032003@gmail.com 7588090356
 
 ### YCCE Students
+11. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728
+12. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
+13. Yachana Mahant CT-A 		yachanamahant@gmail.com	9765334656
+14. Akshay Gulhane CT-B		gulhaneakshay55@gmail.com	8605209125
+15. Mrunali Pusadkar CT-B		mrunalipusadkar03@gmail.com	8412051090
+16. Vishal Rathod CT-B		vishalrathod0811@gmail.com	9075576888
+17. Manaswi Dhote CT-B			dhotemanaswi@gmail.com 8767410526
+18. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
+19. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
+20. Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
+21. Abhishek Bakde	CT-B	abhishekbakde456@gmail.com	7588251323
+22. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
+
+### FEAT Students
