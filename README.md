@@ -6,7 +6,7 @@
 #### Week Days Collaboration
 - Supervisor: Professor and Nilesh
 - Days: Mon, Wed, Fri
--Calendar
+- Calendar
 
 #### Use Cases Project
 - Number of Use Cases: 7
