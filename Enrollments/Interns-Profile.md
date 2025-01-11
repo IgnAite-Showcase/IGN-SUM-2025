@@ -2,10 +2,10 @@
 Team: A - Atharva
 Use Case: 
 1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
-2. Atharva Bavge CE-A atharvabavge@gmail.com 943633371
-3. Saurav Bhutke sauravbhukte2308@gmail.com 8177952858
-4. Abishek Philip CE-B abisheklphilip@gmail.com 8594005654
-5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552
+2. Atharva Bavge CE-A atharvabavge@gmail.com 943633371 
+3. Saurav Bhutke CE-A sauravbhukte2308@gmail.com 8177952858 
+4. Abishek Philip CE-B abisheklphilip@gmail.com 8594005654 
+5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
 
 ### YCCE (15) - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
 Team: B - Maitreyee
