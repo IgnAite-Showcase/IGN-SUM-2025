@@ -24,7 +24,7 @@ Use Case:
 18. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
 19. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
-Team: D - 
+### Team: D - cc
 Use Case: 
 20. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
 21. Manaswi Dhote CT-B			dhotemanaswi@gmail.com 8767410526
@@ -33,8 +33,8 @@ Use Case:
 24. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
 
 
-Pending
-Om Rahudkar
-4. Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
-2. Gargi Fating CE-A gargif47@gmail.com  8208165733
-3. Rajlin Kaur Virdi CE-A rajlinkaur2508@gmail.com 9960737174
+### Pending
+- Om Rahudkar
+- Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
+- Gargi Fating CE-A gargif47@gmail.com  8208165733
+- Rajlin Kaur Virdi CE-A rajlinkaur2508@gmail.com 9960737174
