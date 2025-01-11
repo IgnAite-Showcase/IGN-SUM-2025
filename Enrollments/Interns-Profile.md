@@ -33,5 +33,5 @@
 20. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
 
 ### Pending
-- Om Rahudkar
+- Om Rahudkar (Employee) OmRahudkar@gmail.com
 - Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
