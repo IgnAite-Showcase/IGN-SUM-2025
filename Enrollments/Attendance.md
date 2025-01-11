@@ -1,11 +1,11 @@
 ### SVP - Atharva
-- Sakshi Kasture:
+- Sakshi Kasture:1/11
 - Gargi Fating:
 - Rajlin Kaur Virdi:
 - Abishek Philip:
-- Kevin Beji:
+- Kevin Beji:1/11
 - Atharva Bavge:1/11,
-- Saurav Bhutke:
+- Saurav Bhutke:1/11
 - Vaidehi Karemore:
 
 ## YCCE - 
