@@ -35,5 +35,3 @@
 ### Pending
 - Om Rahudkar
 - Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
-- Gargi Fating CE-A gargif47@gmail.com  8208165733
-- Rajlin Kaur Virdi CE-A rajlinkaur2508@gmail.com 9960737174
