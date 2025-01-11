@@ -21,6 +21,7 @@
 18. Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
 19. Abhishek Bakde	CT-B	abhishekbakde456@gmail.com	7588251323
 20. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
+21. Varenya Barve CT-  varenyabarve2003@gmail.com
+22. Nikhil Khonde CT-  khondenikhil831@gmail.com
+23. Maitreyee Warhadpande CT- maitreyeewarhadpande27@gmail.com 9420522172
 
-### Other
-Vaishnav Charde 9156974531
