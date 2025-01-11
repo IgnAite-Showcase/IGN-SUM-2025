@@ -4,9 +4,9 @@
 - Meeting link: https://teams.live.com/meet/9361437840269?p=KRrb0xpc9dNl8u8pWp
 
 #### Week Days Collaboration
-- Supervisor: Professor and Nilesh
+- Supervisor: Professor, Nilesh and Anand 
 - Days: Mon, Wed, Fri
-- Calendar
+- Academic Calendar: Jan - April
 
 #### Use Cases Project
 - Number of Use Cases: 7
