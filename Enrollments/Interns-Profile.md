@@ -35,3 +35,5 @@
 ### Pending
 - Om Rahudkar (Employee) OmRahudkar@gmail.com
 - Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
+- Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
+
