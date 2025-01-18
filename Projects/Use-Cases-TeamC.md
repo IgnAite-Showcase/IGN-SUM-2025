@@ -1,11 +1,13 @@
 ### Team: C - Lead Mrunali
 - Individual Use cases for final selection
-1. Abhishek Bakde - Online Bidding System
 
-2. Mrunali Pusadkar - Translator app
+1. Abhishek Bakde - Online Bidding System for Property based on settings
 
-3. Akshay Gulhane - Smart Grocery List Manager 
+2. Mrunali Pusadkar - Lip and Tung Gusture and Intention Translator App
 
-4. Yogendra Bhavsar - Electronic Health Record
+3. Akshay Gulhane - Smart Grocery Inventory (Household/Shop Challenge) List Manager
 
-5. Vishal Rathod - Online voting system
+4. Yogendra Bhavsar - Digitalize Electronic Health Record History from PDF Format
+
+5. Vishal Rathod - Online Voting System (Authentication, Biometrics Identity and Bloack Chain, Internet Connectivity)
+
