@@ -32,10 +32,9 @@
 19. Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
 20. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
 
-### Pending
-- Om Rahudkar (Employee) OmRahudkar@gmail.com
-- Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
-- Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
-- Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
-
-
+### Team: D - Om Rahudkar
+- Use Case: 
+21. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
+22. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
+23. Om Rahudkar (Employee) OmRahudkar@gmail.com
+24. Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
