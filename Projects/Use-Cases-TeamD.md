@@ -15,4 +15,5 @@ Team: D - Lead (Yachana)
 - (TBD) Pawan Patle
    
 - AI assistnce for farmers weather alert and prediction.
-- Farmers assistance to protect Crops from Animals
+- Farmers assistance to protect Crops from Animals Detecting and Detering
+- AI Asssistance for professor to Evaluate Objective type QA Papers
