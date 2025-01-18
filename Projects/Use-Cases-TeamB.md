@@ -6,6 +6,6 @@
 
 3. Varenya Barve: AI powered resume screening system
 
-4. Nikhil Khonde:
+4. Nikhil Khonde: Bookreads (Smart books recommendations and review app)
 
 5. Maitreyee Warhadpande: Social media reviews sentiment analysis 
