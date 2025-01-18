@@ -24,6 +24,6 @@
 - Poorva Thote: 
 ### Team: E - Om Rahudkar
 - Tanish Jhamtani: 1/11
-- Atharva Jibhakate: (Not in GH) 1/11
+- Atharva Jibhakate: 1/11
 - Om Rahudkar: 1/11
 - Vaidehi Karemore: (Not in GH).
