@@ -1,12 +1,15 @@
 Team: D - Lead (TBD)
 - Individual Use cases for final selection
 
-1. Yachana Mahant
+1. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
+   
+2. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
+   
+3. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
 
-2. Manaswi Dhote
-
-3. Prajwal Potfode
-
-4. Pawan Patle
-
-5. Poorva Thote
+4. (TBD) Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
+   
+5. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
+   
+6. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
+   
