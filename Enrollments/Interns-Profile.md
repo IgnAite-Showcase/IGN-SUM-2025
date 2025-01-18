@@ -24,17 +24,16 @@
 14. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
 15. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
-#### Team: D - cc
+#### Team: D - Yachana
 - Team Use Case: 
 16. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
-17. Manaswi Dhote CT-B		dhotemanaswi@gmail.com 8767410526
+17. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
 18. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
-19. Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
+19. (TBD) Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
 20. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
+21. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
 
 #### Team: E - Om Rahudkar
 - Team Use Case: 
-21. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
-22. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
 23. Om Rahudkar (Employee) OmRahudkar@gmail.com
 24. Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
