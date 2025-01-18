@@ -2,7 +2,7 @@
 - Individual Use cases for final selection
 1. Aditi Kapkar: Mental health chatbot
 
-2. Ishika Ramdham: Smart personal assistant for specially abled individuals
+2. Ishika Ramdham: Smart personal assistant for specially disabled individuals
 
 3. Varenya Barve: AI powered resume screening system
 
