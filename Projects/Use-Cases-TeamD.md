@@ -9,7 +9,7 @@ Team: D - Lead (Yachana)
 
 4. Poorva Thote: 
 
-5. Tanish Jhamtani: 
+5. Divyani Pendam:
 
 
 - (TBD) Pawan Patle
