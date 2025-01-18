@@ -4,7 +4,7 @@
 
 2. Mrunali Pusadkar - Translator app
 
-3. Akshay Gulhane
+3. Akshay Gulhane - smart Grocery List Manager 
 
 4. Yogendra Bhavsar - Electronic Health Record
 
