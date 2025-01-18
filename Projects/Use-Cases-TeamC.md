@@ -2,7 +2,7 @@
 - Individual Use cases for final selection
 1. Abhishek Bakde - Online Bidding System
 
-2. Mrunali Pusadkar
+2. Mrunali Pusadkar - Translator app
 
 3. Akshay Gulhane
 
