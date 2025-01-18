@@ -3,7 +3,7 @@
 
 1. Tanish Jhamtani:
    
-3. Atharva Jibhakate:
+3. Atharva Jibhakate: Personalized Travel Itinerary Generator
    
 5. Om Rahudkar:
    
