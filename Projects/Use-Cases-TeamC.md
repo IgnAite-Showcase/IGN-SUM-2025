@@ -1,6 +1,6 @@
 ### Team: C - Lead Mrunali
 - Individual Use cases for final selection
-1. Abhishek Bakde
+1. Abhishek Bakde - Online Bidding System
 
 2. Mrunali Pusadkar
 
@@ -8,4 +8,4 @@
 
 4. Yogendra Bhavsar
 
-5. Vishal Rathod 
+5. Vishal Rathod - Online voting system
