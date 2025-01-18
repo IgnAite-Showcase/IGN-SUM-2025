@@ -4,7 +4,7 @@
    
 2. Atharva Bavge: Person detection in smoke & haze envirnoment
 
-3. Saurav Bhutke:
+3. Saurav Bhutke: AI integrated online IDE(Code Editor)
    
 5. Abishek Philip:
   
