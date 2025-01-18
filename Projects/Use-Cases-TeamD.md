@@ -1,15 +1,18 @@
-Team: D - Lead (TBD)
+Team: D - Lead (Yachana)
 - Individual Use cases for final selection
 
-1. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656 : Agricultural Assistant for Farmers
-   
-2. Atharva Jibhakate CT-A  atharv.jibhkate25@gmail.com 8767782210: Personalized Travel Itinerary Generator
-   
-3. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
+1. Yachana Mahant: AI Assistant for Farmers to take advantage of Government Schemes in local Language
 
-4. (TBD) Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
+2. Atharva Jibhakate: Personalized Travel Itinerary Generator (Door/End - Door/End)
+
+3. Prajwal Potfode: 
+
+4. Poorva Thote: 
+
+5. Tanish Jhamtani: 
+
+
+- (TBD) Pawan Patle
    
-5. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
-   
-6. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
-   
+- AI assistnce for farmers weather alert and prediction.
+- Farmers assistance to protect Crops from Animals
