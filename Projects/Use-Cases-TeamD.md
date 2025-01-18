@@ -3,7 +3,7 @@ Team: D - Lead (TBD)
 
 1. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656 : Agricultural Assistant for Farmers
    
-2. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
+2. Atharva Jibhakate CT-A  atharv.jibhkate25@gmail.com 8767782210: Personalized Travel Itinerary Generator
    
 3. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
 
