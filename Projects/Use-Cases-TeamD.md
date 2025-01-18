@@ -1,7 +1,7 @@
 Team: D - Lead (TBD)
 - Individual Use cases for final selection
 
-1. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
+1. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656 : Agricultural Assistant for Farmers
    
 2. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
    
