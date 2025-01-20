@@ -33,12 +33,18 @@
 16. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
 17. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
 18. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
-19. (TBD) Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
-20. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
-21. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
+19. Poorva Thote	CT-B		purvathote@gmail.com 9423102323
+20. Tanish Jhamtani (YCCE) tanishjhamtani10@gmail.com 6232136860
 
-#### Team: E - Om Rahudkar
+#### Team: E - Divyani
 - Team Use Case:
 - Access to Innovation Beats: teame/ignaite
-23. Om Rahudkar (Employee) OmRahudkar@gmail.com
-24. Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
+21. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
+22. Samiksha Raut YCCE CT samikshasr1704@gmail.com 7385784461
+23. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
+24. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050
+24. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548
+
+#### Other
+- Vaidehi Karemore (Alumni) Vaidehikaremore11@gmail.com 9049646491
+- Pawan Patle CT-B		pawanpatle718@gmail.com	7020974920
