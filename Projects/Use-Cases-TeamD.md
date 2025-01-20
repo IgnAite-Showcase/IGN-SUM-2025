@@ -4,7 +4,6 @@ Team: D - Lead (Yachana)
 2. Atharva Jibhakate: Personalized Travel Itinerary Generator (Door/End - Door/End)
 3. Prajwal Potfode: 
 4. Poorva Thote: 
-5. Divyani Pendam:
 
 ### Team D Final Use Case: 
 - Short Name:
