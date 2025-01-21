@@ -1,22 +1,23 @@
 ### Databricks AI Capabilities
 
 - AI Assistance in Databricks UI
-1. AI Assistance for Code and Query Generation
-2. AI Assistance for Intellisence and Debug/Fix
-3. AI Assistance for Code and Comment Completion
-4. AI Assist to provide Table and Column Comments
-5. AI BI Assistance - Generate Dashboard by Prompts
+1. AI Assistance for Language Code Generation
+2. AI Assistance SQL Query Code Generation
+3. AI Assistance for Intellisence and Debug/Fix
+4. AI Assistance for Code and Comment Completion
+5. AI Assist to provide Table and Column Comments
+6. AI BI Assistance - Generate Dashboard by Prompts
 
 - Interact AI Models within Databricks using
 1. Open AI Client: Supported Libraries (databricks-sdk[openai])
 2. Serving End Points: Using (Query Dialogbox Json)
 3. SQL AI Query: Batch Inference Using (Delta Table)
 4. Playground: Using Examples Templates and prompt
-5. REST API: All Served Models API used any application
+5. REST API: Serverless Models API used any application
 6. Databricks SDK: Simplified complex Plumbing work (databricks-sdk)
 7. Langchain SDK: Supported Third party library
 8. Genie Space: Interactively work with Dataset Table
-9. Chat App: Serve Model as Chat Application.
+9. Chat App: Serve Model as Chat Serverless Application.
 10. MLFlow SDK: Run Model Pipeline Experiments
 
 - Model Management
@@ -40,7 +41,12 @@ databricks-bge-large-en (Embeddings)
 databricks-gte-large-en (Embeddings)
 OpenAI and Azure Open AI (settings)
 
-- Compute Type
-1. Cluster 
+- Databricks Compute Type
+1. All Purpose Cluster
+2. Job Compute Cluster
+3. SQL Warehouse Cluster
+4. App Serving Endpoint
+5. Vector Search End Point
+6. Model Serving End Point
 
 Ref: https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/score-foundation-models
