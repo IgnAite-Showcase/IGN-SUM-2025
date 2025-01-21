@@ -13,7 +13,6 @@
 - Maitreyee Warhadpande: 1/11
 
 ### Team: C - Mrunali
-- Abhishek Bakde: 1/11
 - Mrunali Pusadkar: 1/11
 - Akshay Gulhane: 1/11
 - Yogendra Bhavsar: 1/11
