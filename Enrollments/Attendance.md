@@ -6,11 +6,11 @@
 - Sakshi Kasture: (Not in GH) 1/11,1/18
 
 ### Team: B - Maitreyee
-- Aditi Kapkar: 1/11
-- Ishika Ramdham: 1/11
-- Varenya Barve: (Not in GH) 1/11
-- Nikhil Khonde: 1/11
-- Maitreyee Warhadpande: 1/11
+- Aditi Kapkar: 1/11, 1/18
+- Ishika Ramdham: 1/11, 1/18
+- Varenya Barve: (Not in GH) 1/11, 1/18
+- Nikhil Khonde: 1/11, 1/18
+- Maitreyee Warhadpande: 1/11, 1/18
 
 ### Team: C - Mrunali
 - Mrunali Pusadkar: 1/11
