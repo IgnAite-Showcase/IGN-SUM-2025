@@ -21,24 +21,23 @@
 #### Team: C - Mrunali
 - Team Use Case:
 - Access to Innovation Beats: teamc/ignaite
-11. Abhishek Bakde	CT-B	abhishekbakde456@gmail.com	7588251323
-12. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
-13. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125
-14. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
-15. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
+11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
+12. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125
+13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
+14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
 #### Team: D - Yachana
 - Team Use Case:
 - Access to Innovation Beats: teamd/ignaite
-16. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
-17. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
-18. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
-19. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
+15. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
+16. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
+17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
+18. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
 
 #### Team: E - Divyani
 - Team Use Case:
 - Access to Innovation Beats: teame/ignaite
-20. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
-21. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
-22. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050
-23. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548
+19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
+20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
+21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050
+22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548
