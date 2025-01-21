@@ -24,11 +24,9 @@
 - Atharva Jibhakate: 1/11
 - Prajwal Potfode: (Not in GH)
 - Poorva Thote (Not in GH) 
-- Tanish Jhamtani: 1/11
 
 ### Team: E - Divyani
 - Divyani Pendam
-- Samiksha Raut
 - Shriraj Pandhare
 - Mahesh Shastrakar
 - Om Rahudkar: 1/11
