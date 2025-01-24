@@ -1,9 +1,9 @@
 ### Team: E - TBD
 - Individual Use cases for the selection
 1. Divyani Pendam: 
-3. Shriraj Pandhare: 
-4. Mahesh Shastrakar: 
-5. Om Rahudkar: Smart Dustbin with Advance Smell Detection.
+2. Shriraj Pandhare: 
+3. Mahesh Shastrakar: 
+4. Om Rahudkar: Smart Dustbin with Advance Smell Detection -(Rank 4)
 ### Team D Final Use Case: 
 - Short Name:
 - Description:
