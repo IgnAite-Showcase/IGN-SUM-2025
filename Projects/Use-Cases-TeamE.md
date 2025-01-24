@@ -3,8 +3,7 @@
 1. Divyani Pendam: 
 3. Shriraj Pandhare: 
 4. Mahesh Shastrakar: 
-5. Om Rahudkar:
-
+5. Om Rahudkar: Smart Dustbin with Advance Smell Detection.
 ### Team D Final Use Case: 
 - Short Name:
 - Description:
