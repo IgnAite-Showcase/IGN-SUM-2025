@@ -12,7 +12,7 @@
 - Description: SmartIDE is an AI-powered, browser-based integrated development environment (IDE) that facilitates the end-to-end assembly of applications. It includes intelligent code completion, debugging, collaborative editing, and deployment features, integrated with AI-based guidance for faster and more efficient development.
   
 - Persona: Primary Users: Software Developers (novice to expert levels), Tech Teams and Startups building applications.
-           Secondary Users: Educators and students learning to code, Enterprise teams requiring custom software solutions.
+Secondary Users: Educators and students learning to code, Enterprise teams requiring custom software solutions.
 
 - Painpoint: 1. Fragmented tools for writing, debugging, testing, and deploying code.  
 2. Time-consuming manual debugging and error resolution.  
