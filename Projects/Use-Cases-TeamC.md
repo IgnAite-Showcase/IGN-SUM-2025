@@ -7,14 +7,65 @@
 
 
 ### Team C Final Use Case: Digitalize Electronic Health Record History from PDF Format
-- Short Name:
-- Description:
+- Short Name:  Digital EHR
+- Description: This project involves developing a web application to digitalize Electronic Health Record (EHR) histories from PDF format. Using the MERN (MongoDB, 
+          Express.js, React.js, Node.js) stack, the platform will extract, organize, and manage medical history data for healthcare providers and patients.
+  
 - Persona:
+       1.Healthcare Providers: Doctors, nurses, and administrative staff looking to streamline record management.
+       2.Patients: Individuals who need easy access to their medical history and records.
+       3.Hospital Administrators: Decision-makers aiming to improve operational efficiency.
+  
 - Painpoint:
+        1.Manual extraction of patient data from PDFs is time-consuming and error-prone.
+        2.Difficulty in searching and accessing specific patient information.
+        3.Lack of interoperability between different healthcare systems.
+        4.Risk of data loss or duplication in physical and PDF-based records.
+        5.Limited data insights for analytics and reporting.
+
+
 - Justification:
+              The digitalization of health records will significantly reduce manual effort, minimize errors, and improve access to critical patient information. 
+            With growing healthcare data, an efficient, scalable, and user-friendly solution is essential to meet modern healthcare demands.
+  
 - Benefits/Value:
+          1.Time Efficiency: Faster processing and retrieval of patient records.
+          2.Improved Accuracy: Automated data extraction reduces human errors.
+          3.Enhanced Accessibility: Easy access to records from any device.
+          4.Data Insights: Provides analytics for better decision-making.
+          5.Interoperability: Integration with existing healthcare systems and standards like HL7 or FHIR.
+          6.Cost Savings: Reduces administrative costs associated with paper-based systems.
+  
 - Current State:
+         1.EHRs are primarily stored in PDF formats.
+         2.Data retrieval involves manual processes.
+         3.Limited search and analytics capabilities.
+         4.Vulnerability to data loss or mismanagement.
+
 - Proposed State:
+          1.A centralized, cloud-based digital EHR management system.
+          2.Automated extraction and indexing of data from PDFs.
+          3.Searchable and filterable records for healthcare providers.
+          4.Integration with analytics and reporting tools.
+          5.Secure and compliant with healthcare regulations (e.g., HIPAA, GDPR).
+  
 - Solution:
+          1.Frontend: A user-friendly React.js interface for managing records, searching, and viewing patient data.
+          2.Backend: Node.js and Express.js to handle API requests, user authentication, and secure data processing.
+          3.Database: MongoDB for storing structured patient data and metadata.
+          4.Data Extraction: Integration of OCR (Optical Character Recognition) tools like Tesseract.js or AWS Textract for parsing PDFs.
+          5.Cloud Hosting: Deploy on cloud platforms like AWS or Azure for scalability and security.
+          6.Security: Implement role-based access control (RBAC), encryption, and compliance standards.
+  7.Analytics: Provide dashboards for data insights using tools like Chart.js or D3.js.
+
+  
 - Technologies:
-- 
+      =>Frontend: React.js, Tailwind CSS/Material-UI for design.
+      =>Backend: Node.js, Express.js.
+      =>Database: MongoDB.
+      =>OCR Tools: Tesseract.js, AWS Textract, or Google Cloud Vision API.
+      =>Hosting: AWS, Azure, or Heroku.
+      =>Authentication: JWT (JSON Web Token) or OAuth2.
+      =>Analytics: Chart.js, D3.js, or Power BI integration.
+
+
