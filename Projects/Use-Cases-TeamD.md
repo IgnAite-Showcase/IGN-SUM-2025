@@ -8,27 +8,27 @@ Description: A web app for tracking personal investments (stocks, crypto, etc.).
 
 ### Team D Final Use Case:  Personalized Travel Itinerary Generator (Door/End - Door/End)
 
--Short Name: SmartJourney
+- Short Name: SmartJourney
 
--Description:
+- Description:
+1. SmartJourney is an AI-powered platform that creates personalized, end-to-end travel itineraries.
+2. It considers user preferences, budgets, and constraints to recommend optimized travel plans,
+3. Including transportation, accommodations, activities, and local experiences and buffer time.
 
-SmartJourney is an AI-powered platform that creates personalized, end-to-end travel itineraries. It considers user preferences, budgets, and constraints to recommend optimized travel plans, including transportation, accommodations, activities, and local experiences.
+- Persona:
+1. Primary Users: Personalized travel planning, for individuals or families, and corporate travelers seeking tailored trip planning solutions.
+2. Secondary Users: Useful for travel agencies and businesses offering customized travel services.
 
--Persona:
+- Painpoints:
+1. Time-consuming process to plan trips, comparing multiple platforms for bookings and activities.
+2. Difficulty in finding personalized recommendations for unique preferences.
+3. Lack of real-time adjustments based on unforeseen changes like delays or weather or changes in priorities.
+4. Overwhelming options leading to indecision and suboptimal plans.
 
-Primary Users: Personalized travel planning, for individuals or families, and corporate travelers seeking tailored trip planning solutions.
-Secondary Users: Useful for travel agencies and businesses offering customized travel services.
-
--Painpoints:
-
-Time-consuming process to plan trips, comparing multiple platforms for bookings and activities.
-Difficulty in finding personalized recommendations for unique preferences.
-Lack of real-time adjustments based on unforeseen changes like delays or weather.
-Overwhelming options leading to indecision and suboptimal plans.
-Justification:
+- Justification:
 Travelers seek streamlined, stress-free planning and unique experiences, yet traditional platforms require extensive manual effort. SmartJourney leverages AI to automate and personalize the planning process, enhancing user satisfaction and travel efficiency.
 
--Benefits/Value:
+- Benefits/Value:
 
 Personalization: Curated itineraries tailored to user preferences and budgets.
 Efficiency: Minimized planning time by consolidating travel, lodging, and activities in one platform.
@@ -48,8 +48,7 @@ Unified AI-powered platform for planning, booking, and real-time updates.
 Integrated transportation, lodging, and activity recommendations with a seamless user experience.
 AI-powered chatbot for personalized guidance and adjustments on the go.
 
--Solution:
-
+-Solution: Chatbot (Generate Iternary, Adjust Iternary)
 AI Assistance: Intelligent itinerary generation based on user preferences, budget, and real-time data.
 Real-Time Adaptability: Automatic updates for weather changes, delays, or cancellations.
 Integrated Booking: Direct bookings for transport, hotels, and activities from the platform.
@@ -58,7 +57,6 @@ Collaboration Features: Group trip planning with shared itineraries and budget t
 Responsive Design: Easy access via responsive web and mobile applications.
 
 -Technologies:
-
 Browser-Based Frontend: React, TypeScript, Tailwind CSS, Next.js
 Backend: Node.js, Express
 AI/ML Models: GPT models for personalized suggestions and NLP-based user interaction
@@ -66,3 +64,5 @@ Databases: MongoDB for user data, preferences, and itinerary storage
 APIs: Integrations with Google Maps, OpenWeather, Booking.com, and other travel-related APIs
 Collaboration Tools: Real-time updates via WebSockets or WebRTC
 Payment Gateways: Integration with Stripe or PayPal for seamless transactions
+
+
