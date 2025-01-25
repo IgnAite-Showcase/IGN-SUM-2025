@@ -4,8 +4,9 @@
 2. Shriraj Pandhare: Location-Based Restaurant Recommendation System Using Demographics, Traffic Patterns, Popularity, and User Preferences - (Rank 1)
 3. Mahesh Shastrakar: AI Based Telemedicine (A Complete Health Platform using AI tools) - (Rank 3)
 4. Om Rahudkar: Smart Dustbin with Advance Smell Detection -(Rank 4)
-### Team E Final Use Case: 
-- Short Name:
+
+### Team E Final Use Case: Location-Based Restaurant Setup Recommendation System Using Demographics, Traffic Patterns, Popularity, and User Preferences
+- Short Name: 
 - Description:
 - Persona:
 - Painpoint:
