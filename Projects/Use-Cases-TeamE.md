@@ -34,7 +34,7 @@
   - User-Friendly Dashboard: Interactive visualizations, heatmaps, and ranking tables for easy interpretation.
   - Agile Approach: Fast adaptation to meet time-to-market trends as to evolve successfully in the market.
 
-- Technologies:
+- Technologies: 
   Frontend : ReactJS
   Backend : NodeJS, ExpressJS
   Databases : MySQL
