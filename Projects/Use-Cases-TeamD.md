@@ -65,4 +65,9 @@ APIs: Integrations with Google Maps, OpenWeather, Booking.com, and other travel-
 Collaboration Tools: Real-time updates via WebSockets or WebRTC
 Payment Gateways: Integration with Stripe or PayPal for seamless transactions
 
-
+- Use Case Methodology: SIPOC
+1. Supplier: Traveler  (Context: My current location, Todays Date)
+2. Input: Prompt- I would like to have vacation at Goa on MM-DD-YYYY (Chat GPT)
+3. Process: State T0 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
+4. Output:  State T1 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
+5. Customer: 
