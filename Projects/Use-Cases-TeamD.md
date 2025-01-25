@@ -6,7 +6,7 @@ Team: D - Lead (Yachana)
 4. Purva Thote: Portfolio Tracker
 Description: A web app for tracking personal investments (stocks, crypto, etc.).
 
-### Team D Final Use Case: 
+### Team D Final Use Case:  Personalized Travel Itinerary Generator (Door/End - Door/End)
 - Short Name: 
 - Description: 
 - Persona: 
