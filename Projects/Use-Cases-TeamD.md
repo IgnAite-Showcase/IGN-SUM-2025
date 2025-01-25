@@ -16,7 +16,7 @@ SmartJourney is an AI-powered platform that creates personalized, end-to-end tra
 
 -Persona:
 
-Primary Users: Personalized travel planning, for indivisuals or families, and corporate travelers seeking tailored trip planning solutions.
+Primary Users: Personalized travel planning, for individuals or families, and corporate travelers seeking tailored trip planning solutions.
 Secondary Users: Useful for travel agencies and businesses offering customized travel services.
 
 -Painpoints:
