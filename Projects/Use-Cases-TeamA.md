@@ -62,7 +62,7 @@
 5. Customizable Plugins: Extend functionality with thirdparty libraries and plugins.  
 6. Responsive UI/UX: Simplified interface for all levels of users, including keyboard shortcuts and themes.
 
-- Methodology: SIPOC
+- Use Case Methodology: SIPOC
 1. Supplier: 
 2. Input: 
 3. Process: 
