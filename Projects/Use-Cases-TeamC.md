@@ -74,4 +74,10 @@
 7. Authentication: JWT (JSON Web Token) or OAuth2.
 8. Analytics: Chart.js, D3.js, or Power BI integration.
 
-Use Case 
+- Use Case Methodology: SIPOC
+1. Supplier: Patient/Assistance (Mobile App)
+2. Input: (Scan Record) --> PDF --> Upload
+3. Process: (Web Application) --> Processing 
+4. Output: Patient Account History in PDF and Text
+5. Customer: Physician/Patient/Associate(Medical History)
+    
