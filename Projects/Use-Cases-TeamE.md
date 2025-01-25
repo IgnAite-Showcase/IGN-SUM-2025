@@ -1,4 +1,4 @@
-### Team: E - TBD
+### Team: E - Divyani
 - Individual Use cases for the selection
 1. Divyani Pendam: Carbon footprint tracker specified for coal mines - (Rank 2)
 2. Shriraj Pandhare: Location-Based Restaurant Recommendation System Using Demographics, Traffic Patterns, Popularity, and User Preferences - (Rank 1)
