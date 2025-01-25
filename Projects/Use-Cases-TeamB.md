@@ -1,15 +1,15 @@
 ### Team: B - Lead Maitreyee
 - Individual Use cases for final selection
-1. Aditi Kapkar: Personalized AI Assistance Mental health Theorapy (Life is Beautiful) - (Rank - 2nd)
+1. Aditi Kapkar: Personalized AI Assistance Mental health Theorapy (Life is Beautiful) - (Rank - 1nd)
 2. Ishika Ramdham: Personal AI assistant for physically challenged individuals - (Rank - 5th)
 3. Varenya Barve: AI powered resume screening and shortlisting system (Bias and Legal Issues) - (Rank - 4th)
-4. Nikhil Khonde: Bookrecommender(Smart books recommendations and review app based on past purchases, new arrivals) - (Rank 1st)
+4. Nikhil Khonde: Bookrecommender(Smart books recommendations and review app based on past purchases, new arrivals) - (Rank 2st)
 5. Maitreyee Warhadpande: Browser Extension for All Social media reviews AI sentiment analysis on <Product Reviews> (Search, View, Read Review, Add/remove to cart, Write Review) - (Rank - 3rd)
 
-### Team B Final Use Case: Personalized AI Assistance Mental health Therapy
-1. Short Name: SoulSync(SSAI)
+### Team B Final Use Case: Personalized AI Assistance Mental health Therapy - SoulSync
+1. Short Name: (SSAI)
 
-2. Description:The Personalized AI-Driven Mental Health Assistant is an advanced chatbot designed to revolutionize mental health therapy by providing tailored emotional support, real-time mood tracking, guided therapeutic interventions, and seamless preparation for therapy sessions. This innovative tool is built to serve as a supportive companion for users.
+2. Description : The Personalized AI-Driven Mental Health Assistant is an advanced chatbot designed to revolutionize mental health therapy by providing tailored emotional support, real-time mood tracking, guided therapeutic interventions, and seamless preparation for therapy sessions. This innovative tool is built to serve as a supportive companion for users.
 
 The chatbot leverages state-of-the-art Natural Language Processing (NLP) techniques to deliver meaningful and empathetic interactions. Powered by BERT pre-trained word embeddings, the chatbot ensures deep contextual understanding of user inputs, enabling it to extract the intent and emotions behind the conversation effectively. Additionally, by using cosine similarity, the system performs high-accuracy similarity matching to retrieve the most relevant and verified responses from a vast database of advice and insights provided by psychologists worldwide.
 
