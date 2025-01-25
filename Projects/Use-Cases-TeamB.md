@@ -6,7 +6,7 @@
 4. Nikhil Khonde: Bookrecommender(Smart books recommendations and review app based on past purchases, new arrivals) - (Rank 1st)
 5. Maitreyee Warhadpande: Browser Extension for All Social media reviews AI sentiment analysis on <Product Reviews> (Search, View, Read Review, Add/remove to cart, Write Review) - (Rank - 3rd)
 
-### Team B Final Use Case: Bookrecommender(Smart books recommendations and review app based on past purchases, new arrivals)
+### Team B Final Use Case: Personalized AI Assistance Mental health Theorapy (Life is Beautiful)
 - Short Name:
 - Description:
 - Persona:
