@@ -6,9 +6,8 @@
 4. Nikhil Khonde: Bookrecommender(Smart books recommendations and review app based on past purchases, new arrivals) - (Rank 1st)
 5. Maitreyee Warhadpande: Browser Extension for All Social media reviews AI sentiment analysis on <Product Reviews> (Search, View, Read Review, Add/remove to cart, Write Review) - (Rank - 3rd)
 
-### Team B Final Use Case: Personalized AI Assistance Mental health Theorapy (Life is Beautiful)
--Team B Final Use Case: Personalized AI Assistance Mental health Theorapy (Life is Beautiful)
-1. Short Name: Free AI Therapy APP
+### Team B Final Use Case: Personalized AI Assistance Mental health Therapy
+1. Short Name: SoulSync(SSAI)
 
 2. Description:The Personalized AI-Driven Mental Health Assistant is an advanced chatbot designed to revolutionize mental health therapy by providing tailored emotional support, real-time mood tracking, guided therapeutic interventions, and seamless preparation for therapy sessions. This innovative tool is built to serve as a supportive companion for users.
 
