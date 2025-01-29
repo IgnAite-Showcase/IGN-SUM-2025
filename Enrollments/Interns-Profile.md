@@ -1,5 +1,5 @@
 ### SVP(8) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
-#### Team: A - Atharva
+#### Team: A - Atharva Bavge
 - Team Use Case:
 - Access to Innovation Beats: teama/ignaite
 1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
@@ -9,7 +9,7 @@
 5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
 
 ### YCCE (15) - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
-#### Team: B - Maitreyee
+#### Team: B - Maitreyee Warhadpande
 - Team Use Case:
 - Access to Innovation Beats: teamb/ignaite
 6. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
@@ -18,7 +18,7 @@
 9. Nikhil Khonde CT-A  khondenikhil831@gmail.com
 10. Maitreyee Warhadpande CT-A maitreyeewarhadpande27@gmail.com 9420522172
 
-#### Team: C - Akshay
+#### Team: C - Akshay Gulhane
 - Team Use Case:
 - Access to Innovation Beats: teamc/ignaite
 11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
@@ -26,7 +26,7 @@
 13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
 14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
-#### Team: D - Yachana
+#### Team: D - Yachana Mahant
 - Team Use Case:
 - Access to Innovation Beats: teamd/ignaite
 15. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
@@ -34,7 +34,7 @@
 17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
 18. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
 
-#### Team: E - Divyani
+#### Team: E - Divyani Pendam
 - Team Use Case:
 - Access to Innovation Beats: teame/ignaite
 19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
