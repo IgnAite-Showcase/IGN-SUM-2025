@@ -38,14 +38,14 @@
   - Agile Approach: Fast adaptation to meet time-to-market trends as to evolve successfully in the market.
 
 - Technologies: 
-  Frontend : ReactJS
-  Backend : NodeJS, ExpressJS
-  Databases : MySQL
-  APIs : Google Maps API
+1.  Frontend : ReactJS
+2.  Backend : NodeJS, ExpressJS
+3.  Databases : MySQL
+4.  APIs : Google Maps API
 
 - Use Case Methodology: SIPOC
-  Supplier : User input, reviews
-  Input : Locatiion data, user preferences
-  Process : Web Application --> Input --> Processing(Data collection, AI-driven analysis, Recommmendation generation) --> Output
-  Output : Ranked restaurent setup recommendation with detailed insights
-  Customers : Entrepreneurs, Restaurant Owners, Franchise Managers, etc.
+  1. Supplier : User input, reviews
+  2. Input : Location data, user preferences
+  3. Process : Web Application --> Input --> Processing(Data collection, AI-driven analysis, Recommmendation generation) --> Output
+  4. Output : Ranked restaurent setup recommendation with detailed insights
+  5. Customers : Entrepreneurs, Restaurant Owners, Franchise Managers, etc.
