@@ -43,7 +43,7 @@
   Databases : MySQL
   APIs : Google Maps API
 
-- Use Case Methodology: SIPOC 
+- Use Case Methodology: SIPOC
   Supplier : User input, reviews
   Input : Locatiion data, user preferences
   Process : Web Application --> Input --> Processing(Data collection, AI-driven analysis, Recommmendation generation) --> Output
