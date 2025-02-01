@@ -39,6 +39,3 @@
   Backend : NodeJS, ExpressJS
   Databases : MySQL
   APIs : Google Maps API
-
-- Future Scope: The system will be extended to support multiple businesses and provide more features as well as in-depth analysis as premium features.
-  
