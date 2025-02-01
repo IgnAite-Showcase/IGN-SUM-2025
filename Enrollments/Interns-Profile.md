@@ -1,5 +1,5 @@
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
-## Team: A - Atharva Bavge - Guide (Smith Khobragade) 
+## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM) 
 ### Team Use Case: IDE for Complete Application Assembly
 - Access to Innovation Beats: teama/ignaite
 - Solution Architecture -> AI Assistance Bot(%) -> High Level (Prompts)(%) -> HL(Diagram)(Site Map)(%) -> Generate Complete Application Code (%) -> Tested (%) -> Deployed (%)
@@ -11,7 +11,7 @@
 5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
 
 # YCCE (16) - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
-## Team: B - Maitreyee Warhadpande
+## Team: B - Maitreyee Warhadpande Guide (Vishakha Sharma - RCOEM)
 ### Team Use Case: Behavioral Health Therapy - SoulSync
 - Access to Innovation Beats: teamb/ignaite
 - AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model
@@ -21,7 +21,7 @@
 9. Nikhil Khonde CT-A  khondenikhil831@gmail.com
 10. Maitreyee Warhadpande CT-A maitreyeewarhadpande27@gmail.com 9420522172
 
-## Team: C - Mrunali Pusadkar
+## Team: C - Mrunali Pusadkar - Nilesh(Guide) +1-973-930-2015
 ### Team Use Case: Digitalize Electronic Health Record
 - Access to Innovation Beats: teamc/ignaite
 - TBD
