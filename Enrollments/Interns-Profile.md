@@ -12,6 +12,7 @@
 ## Team: B - Maitreyee Warhadpande
 ### Team Use Case: Behavioral Health Therapy - SoulSync
 - Access to Innovation Beats: teamb/ignaite
+- AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model
 6. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
 7. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728
 8. Varenya Barve CT-A  varenyabarve2003@gmail.com
@@ -21,6 +22,7 @@
 ## Team: C - Mrunali Pusadkar
 ### Team Use Case: Digitalize Electronic Health Record
 - Access to Innovation Beats: teamc/ignaite
+- TBD
 11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
 12. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125
 13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
