@@ -55,53 +55,42 @@ Developing an accessible behvioral chatbot addresses the increasing behvioral cr
 
 11. SIPOC:  
 Supplier: Behavioral professionals, AI/NLP providers, cloud platforms, users 
-Input: User text/voice input, past interactions, NLP models, verified mental health advice
-Process: Suggests therapy exercises based on user concerns by analyzing sentiment & intent
-Output: Personalized support, mood tracking, therapy exercises, crisis intervention, progress insights
+Input: User text/voice input, past interactions, NLP models, verified mental health advice 
+Process: Suggests therapy exercises based on user concerns by analyzing sentiment & intent 
+Output: Personalized support, mood tracking, therapy exercises, crisis intervention, progress insights 
 Customer: Individuals, therapists, organizations, caregivers.
 
-12. User Stories
+12. User Stories:-
 User Story 1
 Title: AI Chatbot for Nighttime Anxiety Support
-As a person who struggles with nighttime anxiety,
-I want a chatbot that can provide calming conversations and guided relaxation techniques,
-So that I can manage my anxiety and sleep better.
+As a person who struggles with nighttime anxiety,I want a chatbot that can provide calming conversations and guided relaxation techniques, so that I can manage my anxiety and sleep better.
   -Who: A user struggling with overthinking.
   -What: Expresses difficulty in sleeping.
   -Why: The chatbot guides them through a grounding exercise for immediate relief.
-
-User Story 2
+User Story 2-
 Title: AI Chatbot for Daily Motivation & Goal Tracking
-As a student facing academic pressure,
-I want a chatbot that provides daily motivation and check-ins,
-So that I can stay motivated and manage my stress levels better.
+As a student facing academic pressure,I want a chatbot that provides daily motivation and check-ins, so that I can stay motivated and manage my stress levels better.
   -Who: A student feeling unmotivated.
   -What: Expresses doubt about progress.
   -Why: The chatbot provides encouragement and helps them recognize their improvement.
 
 User Story 3
 Title: AI Chatbot for Social Anxiety Support
-As a person struggling with social anxiety,
-I want a chatbot that helps me practice conversations and gain confidence in social situations,
-So that I can feel less anxious when talking to people.
+As a person struggling with social anxiety, I want a chatbot that helps me practice conversations and gain confidence in social situations, so that I can feel less anxious when talking to people.
   -Who: A user nervous about a presentation.
   -What: Expresses anxiety about the upcoming event.
   -Why: The chatbot provides confidence-boosting visualization and offers a deep breathing exercise.
 
 User Story 4
 Title: AI-Powered Mental Health Chatbot for Emotional Support
-As a college student experiencing stress and loneliness,
-I want an AI-driven chatbot that provides emotional support, mindfulness exercises, and positive reinforcement,
-So that I can manage my stress, feel emotionally supported, and develop healthier coping mechanisms.
+As a college student experiencing stress and loneliness, I want an AI-driven chatbot that provides emotional support, mindfulness exercises, and positive reinforcement, so that I can manage my stress, feel emotionally supported, and develop healthier coping mechanisms.
   -Who: A lonely and unmotivated user.
   -What: Expresses feelings of isolation.
   -Why: The chatbot responds with empathy and offers a gratitude exercise to shift focus to positive moments.
 
 User Story: 5
 Title: AI Assistant for Mood Tracking & Therapy Support 
-As a young professional experiencing anxiety,  
-I want a personalized and empathetic mental health assistant,  
-So that I can manage my emotions, track my mood, and prepare for therapy sessions effectively.  
+As a young professional experiencing anxiety, I want a personalized and empathetic mental health assistant, so that I can manage my emotions, track my mood, and prepare for therapy sessions effectively.  
   -Who: A stressed user feeling overwhelmed with work.
   -What: Expresses frustration and anxiety.
   -Why: The assistant provides a calming breathing exercise for immediate relief.
