@@ -66,47 +66,42 @@ Title: AI Chatbot for Nighttime Anxiety Support
 As a person who struggles with nighttime anxiety,
 I want a chatbot that can provide calming conversations and guided relaxation techniques,
 So that I can manage my anxiety and sleep better.
+  Who: A user struggling with overthinking.
+  What: Expresses difficulty in sleeping.
+  Why: The chatbot guides them through a grounding exercise for immediate relief.
 
-Who: A user struggling with overthinking.
-What: Expresses difficulty in sleeping.
-Why: The chatbot guides them through a grounding exercise for immediate relief.
-________________________________________
 User Story 2
 Title: AI Chatbot for Daily Motivation & Goal Tracking
 As a student facing academic pressure,
 I want a chatbot that provides daily motivation and check-ins,
 So that I can stay motivated and manage my stress levels better.
+  Who: A student feeling unmotivated.
+  What: Expresses doubt about progress.
+  Why: The chatbot provides encouragement and helps them recognize their improvement.
 
-Who: A student feeling unmotivated.
-What: Expresses doubt about progress.
-Why: The chatbot provides encouragement and helps them recognize their improvement.
-________________________________________
 User Story 3
 Title: AI Chatbot for Social Anxiety Support
 As a person struggling with social anxiety,
 I want a chatbot that helps me practice conversations and gain confidence in social situations,
 So that I can feel less anxious when talking to people.
+  Who: A user nervous about a presentation.
+  What: Expresses anxiety about the upcoming event.
+  Why: The chatbot provides confidence-boosting visualization and offers a deep breathing exercise.
 
-Who: A user nervous about a presentation.
-What: Expresses anxiety about the upcoming event.
-Why: The chatbot provides confidence-boosting visualization and offers a deep breathing exercise.
-________________________________________
 User Story 4
 Title: AI-Powered Mental Health Chatbot for Emotional Support
 As a college student experiencing stress and loneliness,
 I want an AI-driven chatbot that provides emotional support, mindfulness exercises, and positive reinforcement,
 So that I can manage my stress, feel emotionally supported, and develop healthier coping mechanisms.
+  Who: A lonely and unmotivated user.
+  What: Expresses feelings of isolation.
+  Why: The chatbot responds with empathy and offers a gratitude exercise to shift focus to positive moments.
 
-Who: A lonely and unmotivated user.
-What: Expresses feelings of isolation.
-Why: The chatbot responds with empathy and offers a gratitude exercise to shift focus to positive moments.
-________________________________________
 User Story: 5
 Title: AI Assistant for Mood Tracking & Therapy Support 
 As a young professional experiencing anxiety,  
 I want a personalized and empathetic mental health assistant,  
 So that I can manage my emotions, track my mood, and prepare for therapy sessions effectively.  
-
-Who: A stressed user feeling overwhelmed with work.
-What: Expresses frustration and anxiety.
-Why: The assistant provides a calming breathing exercise for immediate relief.
+  Who: A stressed user feeling overwhelmed with work.
+  What: Expresses frustration and anxiety.
+  Why: The assistant provides a calming breathing exercise for immediate relief.
