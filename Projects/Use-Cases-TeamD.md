@@ -67,7 +67,7 @@ Payment Gateways: Integration with Stripe or PayPal for seamless transactions
 
 - Use Case Methodology: SIPOC
 1. Supplier: Traveler  (Context: My current location, Todays Date)
-2. Input: Prompt- I would like to have vacation at Goa on MM-DD-YYYY (Chat GPT)
+2. Input: Prompt- I would like to have vacation at Goa on MM-DD-YYYY (Chat GPT) and other details eg: budget, interests, etc
 3. Process: State T0 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
 4. Output:  State T1 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
-5. Customer: 
+5. Customer: Traveler (gets iternrary after finalizing) 
