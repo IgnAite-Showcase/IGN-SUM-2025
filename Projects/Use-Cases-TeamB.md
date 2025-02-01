@@ -53,31 +53,12 @@ Developing an accessible behvioral chatbot addresses the increasing behvioral cr
 - APIs: Integration with behvioral resources or helplines.  
 - Accessibility Tools: Text-to-speech APIs and voice recognition tools.
 
-11. SIPOC
-    Suppliers    - Psychologists & mental health experts (provide knowledge base)
-              - AI/ML developers (build and train chatbot)
-              - NLP API providers 
-              - Data sources (mental health articles, therapy resources)
-              - End users (provide feedback for improvement)
-
-  Inputs	- User messages (queries, emotional expressions)
-        
-
-  Process	1. User interacts with chatbot via text/audio.
-          2. NLP processes input, detects intent & sentiment.
-          3. The chatbot selects an appropriate response (comforting messages, mindfulness exercises, coping strategies, or               crisis response).
-          4. If needed, it provides resources (self-help guides, therapist contact suggestions).
-          5. Logs interactions for future improvements while ensuring privacy.
-
-  Outputs	- Personalized mental health support messages
-          - Mood tracking insights
-          - Guided therapy techniques (breathing exercises, journaling)
-          - Crisis management responses (hotline suggestions, emergency alerts)
-          - Analytics reports for chatbot improvement
-
-  Customers	- Individuals struggling with mental health (students, professionals, general users)
-            - Therapists (for therapy preparation & support)
-            - Healthcare organizations (integrating AI in mental health services)
+11. SIPOC:  
+Supplier: Behavioral professionals, AI/NLP providers, cloud platforms, users 
+Input: User text/voice input, past interactions, NLP models, verified mental health advice
+Process: Suggests therapy exercises based on user concerns by analyzing sentiment & intent
+Output: Personalized support, mood tracking, therapy exercises, crisis intervention, progress insights
+Customer: Individuals, therapists, organizations, caregivers.
 
 12. User Stories
 User Story 1
@@ -85,81 +66,47 @@ Title: AI Chatbot for Nighttime Anxiety Support
 As a person who struggles with nighttime anxiety,
 I want a chatbot that can provide calming conversations and guided relaxation techniques,
 So that I can manage my anxiety and sleep better.
-Acceptance Criteria:
-1.	Calming Conversations: The chatbot provides soothing and reassuring responses when I express stress before bed.
-2.	Sleep Aid Techniques: It offers guided breathing exercises, bedtime stories, or meditation to help me relax.
-3.	Gentle Notifications: It sends a soft reminder to practice relaxation techniques if I frequently report sleep difficulties.
-4.	Journaling Support: It encourages me to write down my thoughts and worries to clear my mind before sleeping.
-5.	Dark Mode & Soft Voice Feature: It has a visually calming interface with a text-to-speech option for a comforting experience.
-Example Interaction:
-•	User: "I can’t stop overthinking, and it’s making it hard to sleep."
-•	Chatbot: "That sounds tough. Let’s try a simple grounding exercise: Name five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. Take your time!"
+
+Who: A user struggling with overthinking.
+What: Expresses difficulty in sleeping.
+Why: The chatbot guides them through a grounding exercise for immediate relief.
 ________________________________________
 User Story 2
-Title: Motivational Mental Health Chatbot for Daily Encouragement
+Title: AI Chatbot for Daily Motivation & Goal Tracking
 As a student facing academic pressure,
 I want a chatbot that provides daily motivation and check-ins,
 So that I can stay motivated and manage my stress levels better.
-Acceptance Criteria:
-1.	Daily Motivation Messages: The chatbot sends me positive quotes or affirmations every morning.
-2.	Goal-Tracking Support: It helps me set and track small, achievable goals for the day.
-3.	Encouraging Responses: When I feel discouraged, it offers uplifting messages and reminds me of my progress.
-4.	Customizable Encouragement: I can personalize the type of motivation I want—whether it's study tips, productivity hacks, or self-care reminders.
-5.	Reflection & Gratitude Prompts: It asks questions like "What’s one thing you’re proud of today?" to reinforce a positive mindset.
-Example Interaction:
-•	User: "I feel like I’m not making any progress in my studies."
-•	Chatbot: "Progress isn’t always visible right away, but every small effort adds up! Think about where you were a month ago—you’ve come a long way. What’s one topic you understand better now?"
+
+Who: A student feeling unmotivated.
+What: Expresses doubt about progress.
+Why: The chatbot provides encouragement and helps them recognize their improvement.
 ________________________________________
 User Story 3
 Title: AI Chatbot for Social Anxiety Support
 As a person struggling with social anxiety,
 I want a chatbot that helps me practice conversations and gain confidence in social situations,
 So that I can feel less anxious when talking to people.
-Acceptance Criteria:
-1.	Simulated Conversations: The chatbot allows me to practice casual conversations to build confidence.
-2.	Personalized Advice: It gives me strategies to manage anxiety in real-life social interactions.
-3.	Breathing & Relaxation Techniques: It guides me through calming exercises before and after social interactions.
-4.	Progress Tracker: It helps me track my comfort level over time in different social situations.
-5.	Encouragement & Reinforcement: It reminds me that social skills improve with practice and provides positive reinforcement.
-Example Interaction:
-•	User: "I have to give a presentation tomorrow, and I’m really nervous."
-•	Chatbot: "I understand! Let’s do a quick confidence boost. Imagine your future self-finishing the presentation successfully—how does that feel? Want me to guide you through a deep breathing exercise?"
+
+Who: A user nervous about a presentation.
+What: Expresses anxiety about the upcoming event.
+Why: The chatbot provides confidence-boosting visualization and offers a deep breathing exercise.
 ________________________________________
 User Story 4
 Title: AI-Powered Mental Health Chatbot for Emotional Support
 As a college student experiencing stress and loneliness,
 I want an AI-driven chatbot that provides emotional support, mindfulness exercises, and positive reinforcement,
 So that I can manage my stress, feel emotionally supported, and develop healthier coping mechanisms.
-Acceptance Criteria:
-1.	Emotional Check-ins: The chatbot prompts me daily to share how I’m feeling and tracks my emotional patterns over time.
-2.	Mindfulness & Coping Exercises: It suggests relaxation techniques, guided meditations, and positive affirmations based on my mood.
-3.	Conversational Support: It engages in empathetic conversations, offering comforting and reassuring responses when I feel overwhelmed.
-4.	Crisis Response: If I indicate severe distress, it provides immediate self-help resources and suggests contacting a mental health professional.
-5.	Privacy & Security: My conversations and emotional data are stored securely and kept confidential.
-Example Interaction:
-•	User: "I feel really alone and unmotivated today."
-•	Chatbot: "I'm here for you. It sounds like you're having a tough day. Would you like to talk about it or try a small activity to lift your mood?"
-•	User: "Maybe an activity would help."
-•	Chatbot: "Let's try a gratitude exercise. Can you think of one small thing that made you smile recently? It can be anything—like a good meal or a kind word from a friend."
+
+Who: A lonely and unmotivated user.
+What: Expresses feelings of isolation.
+Why: The chatbot responds with empathy and offers a gratitude exercise to shift focus to positive moments.
 ________________________________________
 User Story: 5
-Title: Enhancing Emotional Well-being with the AI-Driven Mental Health Assistant  
+Title: AI Assistant for Mood Tracking & Therapy Support 
 As a young professional experiencing anxiety,  
 I want a personalized and empathetic mental health assistant,  
 So that I can manage my emotions, track my mood, and prepare for therapy sessions effectively.  
 
-Acceptance Criteria:
-1. Mood Tracking: The assistant allows me to log my emotions daily and provides insights into patterns over time.  
-2. Guided Interventions: It offers personalized therapeutic exercises like breathing techniques or journaling prompts tailored to my mood and stress levels.  
-3. Real-Time Support: It responds empathetically and provides helpful advice when I share feelings of anxiety or distress.  
-4. Therapy Preparation: It helps me organize my thoughts and prepare questions to make my professional therapy sessions more productive.  
-5. Confidentiality: It ensures my data is secure and private.  
-
-Example Interaction:
-- User: "I'm feeling overwhelmed and stressed about work."  
-- Assistant: "I'm here for you. It sounds like you're under a lot of pressure. Would you like to try a short breathing exercise to calm down or talk through what's making you feel overwhelmed?"  
-- User: "A breathing exercise sounds good."  
-- Assistant: "Great. Let's try this: Inhale deeply for four seconds, hold for four seconds, and exhale slowly for six seconds. Repeat this five times. Let me know how you feel afterward."
-
-
-
+Who: A stressed user feeling overwhelmed with work.
+What: Expresses frustration and anxiety.
+Why: The assistant provides a calming breathing exercise for immediate relief.
