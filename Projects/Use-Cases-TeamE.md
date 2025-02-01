@@ -7,8 +7,11 @@
 
 ### Team E Final Use Case: Location-Based Restaurant Setup Recommendation System Using Demographics, Traffic Patterns, Popularity, and User Preferences
 - Short Name: RestaurantPlanner
+  
 - Description: RestaurantPlanner is an AI-driven system that helps users identify the type of restaurant to establish, leveraging demographic data, traffic patterns, restaurant popularity, and user-defined preferences. The system provides actionable insights and ranking-based recommendations to guide decision-making.
-- Persona: Primary Users: Entrepreneurs, Restaurant Owners, Franchise Managers, and Real Estate Consultants. 
+  
+- Persona: Primary Users: Entrepreneurs, Restaurant Owners, Franchise Managers, etc.
+  
 - Painpoint:
   1. Lack of data-driven decision-making tools for restaurant location selection.
   2. Difficulty in analyzing multiple factors like demographics, traffic flow, and existing restaurant competition.
@@ -39,3 +42,10 @@
   Backend : NodeJS, ExpressJS
   Databases : MySQL
   APIs : Google Maps API
+
+- Use Case Methodology: SIPOC 
+  Supplier : User input, reviews
+  Input : Locatiion data, user preferences
+  Process : Web Application --> Input --> Processing(Data collection, AI-driven analysis, Recommmendation generation) --> Output
+  Output : Ranked restaurent setup recommendation with detailed insights
+  Customers : Entrepreneurs, Restaurant Owners, Franchise Managers, etc.
