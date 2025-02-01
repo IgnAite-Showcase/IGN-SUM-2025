@@ -34,8 +34,9 @@
 17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
 18. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
 
-## Team: E - Divyani Pendam
-### Team Use Case: Location-Based Restaurant Recommendation
+## Team: E - Divyani Pendam - Anand Sir (Guide) +1-203-550-7824
+### Team Use Case: Location Demographics - Based Restaurant Business Recommendation
+- Snow Flake: Database, SnowPark Python, Java, Scala, Streamlit Visualization, Cortex AI/ML
 - Access to Innovation Beats: teame/ignaite
 19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
 20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
