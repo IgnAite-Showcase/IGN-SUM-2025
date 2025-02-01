@@ -15,8 +15,8 @@
 3. deployment features, integrated with AI-based guidance for faster and more efficient development.
 
 - Scope
-1. Limit
-2. Industry
+1. Limit: Desktop App Support – Initial phase is web-based, Dependence on Internet Connectivity
+2. Industry: Software Development & IT
 3. Constraint
   
 - Persona:
@@ -63,11 +63,11 @@
 6. Responsive UI/UX: Simplified interface for all levels of users, including keyboard shortcuts and themes.
 
 - Use Case Methodology: SIPOC
-1. Supplier: 
-2. Input: 
-3. Process: 
-4. Output: 
-5. Customer: 
+1. Supplier: Developers & Users, OpenAI 
+2. Input: User Promt
+3. Process: writes code
+4. Output: Fully functional applications, Optimized, error-free code
+5. Customer: Software Developers, Tech Startups
 
 - Technologies: Browser based
 1. Frontend: React, TypeScript, Tailwind CSS,NextJS.
