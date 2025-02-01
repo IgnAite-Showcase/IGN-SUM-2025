@@ -17,7 +17,7 @@
 - Scope
 1. Limit: Desktop App Support – Initial phase is web-based, Dependence on Internet Connectivity
 2. Industry: Software Development & IT
-3. Constraint
+3. Constraint: AI Model Limitations – AI may not always be accurate.
   
 - Persona:
 1. Busness User: TBD depend on Scope
