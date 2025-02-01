@@ -54,17 +54,14 @@ Developing an accessible behvioral chatbot addresses the increasing behvioral cr
 - Accessibility Tools: Text-to-speech APIs and voice recognition tools.
 
 11. SIPOC
-    Suppliers	- Psychologists & mental health experts (provide knowledge base)
+    Suppliers    - Psychologists & mental health experts (provide knowledge base)
               - AI/ML developers (build and train chatbot)
-              - NLP API providers (Google Dialogflow, OpenAI, etc.)
+              - NLP API providers 
               - Data sources (mental health articles, therapy resources)
               - End users (provide feedback for improvement)
 
   Inputs	- User messages (queries, emotional expressions)
-          - Predefined mental health frameworks (CBT, mindfulness techniques)
-          - NLP models for sentiment analysis & intent recognition
-          - Data from previous conversations for personalization
-          - Crisis intervention protocols
+        
 
   Process	1. User interacts with chatbot via text/audio.
           2. NLP processes input, detects intent & sentiment.
