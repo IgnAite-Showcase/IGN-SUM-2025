@@ -1,7 +1,9 @@
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
-## Team: A - Atharva Bavge
+## Team: A - Atharva Bavge - Guide (Smith Khobragade) 
 ### Team Use Case: IDE for Complete Application Assembly
 - Access to Innovation Beats: teama/ignaite
+- Solution Architecture -> AI Assistance Bot(%) -> High Level (Prompts)(%) -> HL(Diagram)(Site Map)(%) -> Generate Complete Application Code (%) -> Tested (%) -> Deployed (%)
+- Web Development(10), Generation (Language JS or framework Next JS) Databricks, Azure Open AI, 
 1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
 2. Atharva Bavge CE-A atharvabavge@gmail.com 943633371 
 3. Saurav Bhutke CE-B sauravbhukte2308@gmail.com 8177952858 
