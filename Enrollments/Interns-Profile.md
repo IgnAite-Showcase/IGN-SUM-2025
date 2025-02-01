@@ -18,7 +18,7 @@
 9. Nikhil Khonde CT-A  khondenikhil831@gmail.com
 10. Maitreyee Warhadpande CT-A maitreyeewarhadpande27@gmail.com 9420522172
 
-## Team: C - Akshay Gulhane
+## Team: C - Mrunali Pusadkar
 ### Team Use Case: Digitalize Electronic Health Record
 - Access to Innovation Beats: teamc/ignaite
 11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
