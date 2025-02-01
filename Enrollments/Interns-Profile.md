@@ -26,10 +26,12 @@
 13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
 14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
-## Team: D - Yachana Mahant
-### Team Use Case: Personalized Travel Door2Door Itinerary
+## Team: D - Atharva Jibhakate - Nilesh(Guide) +1-973-930-2015
+### Team Use Case: Personalized Mobile App Travel Door2Door Itinerary
 - Access to Innovation Beats: teamd/ignaite
-15. Yachana Mahant CT-A 	yachanamahant@gmail.com	9765334656
+- Mobile/Web App(10), BackendAPI(10), Database Store(20), Data Analytics AI/ML(40), Visualization(20)
+- Oracle Apex, Database, API, LLM, Databricks, Azure OpenAI, Promptly Agents
+15. Yachana Mahant CT-A  yachanamahant@gmail.com	9765334656
 16. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
 17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
 18. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
