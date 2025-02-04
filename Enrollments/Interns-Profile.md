@@ -38,7 +38,7 @@
 15. Yachana Mahant CT-A  yachanamahant@gmail.com	9765334656
 16. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
 17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
-18. Poorva Thote	CT-B	purvathote@gmail.com 9423102323
+18. Purva Thote	CT-B	purvathote@gmail.com 9423102323
 
 ## Team: E - Divyani Pendam - Anand Sir (Guide) +1-203-550-7824
 ### Team Use Case: Location Demographics - Based Restaurant Business Recommendation
