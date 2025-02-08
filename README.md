@@ -25,5 +25,6 @@
 - Web Development: Apex.
 
 #### Training
+-- https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation#video
 - Databricks Basics: https://www.databricks.com/learn/training/getting-started-with-data-engineering
 - Databricks Advance AI: https://www.databricks.com/learn/training/get-started-with-generative-ai-accreditation
