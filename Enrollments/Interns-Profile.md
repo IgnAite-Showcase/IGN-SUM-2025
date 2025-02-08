@@ -1,3 +1,8 @@
+## Suggested Tools and Technologies
+Drawing: Draw.io, VisualPagdigm, Visio
+Programming: Next JS, Vite, Python, Promptly
+
+
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
 ## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM) 
 ### Team Use Case: IDE for Complete Application Assembly
