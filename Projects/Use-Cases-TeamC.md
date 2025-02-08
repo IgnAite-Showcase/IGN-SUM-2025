@@ -1,5 +1,5 @@
 Suggested Tools:
-
+https://ai.azure.com/explore/aiservices/vision/contentunderstanding?wsid=/subscriptions/1cba4dea-14a7-4215-9af9-28e9ae192225/resourcegroups/open-ai-rg/providers/Microsoft.MachineLearningServices/workspaces/project-open-ai-srv&tid=08d5cc19-84de-48f2-9dd8-344df0655d79
 
 ### Team: C - Lead Mrunali
 - Individual Use cases for final selection
