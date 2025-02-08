@@ -23,3 +23,7 @@
 - Databricks: https://adb-5396569558483375.15.azuredatabricks.net/?o=5396569558483375
 - Cloud : Azure
 - Web Development: Apex.
+
+#### Training
+- Databricks Basics: https://www.databricks.com/learn/training/getting-started-with-data-engineering
+- Databricks Advance AI: https://www.databricks.com/learn/training/get-started-with-generative-ai-accreditation
