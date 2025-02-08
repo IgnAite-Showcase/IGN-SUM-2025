@@ -24,7 +24,7 @@
 ## Team: C - Mrunali Pusadkar - Nilesh(Guide) +1-973-930-2015
 ### Team Use Case: Digitalize Electronic Health Record
 - Access to Innovation Beats: teamc/ignaite
-- Databricks, API, LLM Model, Database
+- Database, NLP, SQL, Databricks, Azure OpenAI, Databricks, API
 11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
 12. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125
 13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
