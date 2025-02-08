@@ -40,7 +40,7 @@
 - Technologies: 
 1.  Frontend : ReactJS
 2.  Backend : NodeJS, ExpressJS
-3.  Databases : MySQL
+3.  Databases : SnowFlake(SnowSQL)
 4.  APIs : Google Maps API
 
 - Use Case Methodology: SIPOC
