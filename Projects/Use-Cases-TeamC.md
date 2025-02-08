@@ -1,3 +1,6 @@
+Suggested Tools:
+
+
 ### Team: C - Lead Mrunali
 - Individual Use cases for final selection
 1. Mrunali Pusadkar - Lip and Tung Gusture and Intention Translator App - (Rank 4) (Aspirations)
@@ -7,6 +10,7 @@
 
 ### Team C Final Use Case: Digitalize Electronic Health Record History from PDF Format
 - Short Name: Digital EHR
+- Web+Mobile (Progressive) Application(), Image Capture from Camera (), OCR Image Reading (), Parsing OCR data into Medical Data(), Storing into Database(), Backend API()
 
 - Description:
 1. Web application to digitalize Electronic Health Record (EHR) historically managed with paper files
