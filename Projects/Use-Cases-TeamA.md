@@ -78,4 +78,6 @@
 7. Version Control: Git-based integrations.
 
 - Business Requirements (User Stories)
-1. 
+1. Reduce extra cost of frontend developer resources.
+2.Reduce extra efforts of development team.
+3.Deployment for free after reacting an application.
