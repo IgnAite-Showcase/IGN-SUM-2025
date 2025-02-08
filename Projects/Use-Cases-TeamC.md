@@ -10,7 +10,7 @@ https://ai.azure.com/explore/aiservices/vision/contentunderstanding?wsid=/subscr
 
 ### Team C Final Use Case: Digitalize Electronic Health Record History from PDF Format
 - Short Name: Digital EHR
-- Web+Mobile (Progressive) Application(), Image Capture from Camera (), OCR Image Reading (), Parsing OCR data into Medical Data(), Storing into Database(), Backend API()
+- Web+Mobile (Progressive) Application(20%), Image Capture from Camera (10%), OCR Image Reading (15%), Parsing OCR data into Medical Data(20%), Storing into Database(10%), Backend API(15%), Security and compliance(10%)
 
 - Description:
 1. Web application to digitalize Electronic Health Record (EHR) historically managed with paper files
