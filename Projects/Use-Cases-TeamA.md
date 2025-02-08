@@ -79,5 +79,5 @@
 
 - Business Requirements (User Stories)
 1. Reduce extra cost of frontend developer resources.
-2.Reduce extra efforts of development team.
-3.Deployment for free after reacting an application.
+2. As a startup or enterprise developer,User want built-in tools for testing and one-click deployment,So that I can quickly deploy applications without complex setup.
+
