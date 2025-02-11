@@ -7,7 +7,7 @@ Programming: Next JS, Vite, Python, Promptly
 ## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM) 
 ### Team Use Case: IDE for Complete Application Assembly
 - Access to Innovation Beats: teama/ignaite
-- Solution Architecture -> AI Assistance Bot(%) -> High Level (Prompts)(%) -> HL(Diagram)(Site Map)(%) -> Generate Complete Application Code (%) -> Tested (%) -> Deployed (%)
+- Solution Architecture -> AI Assistance Bot(15%) -> High Level (Prompts)(13%) -> Generate Complete Application Code (70%) -> Tested (1%) -> Deployed (1%)
 - Web Development(10), Generation (Language JS or framework Next JS) Databricks, Azure Open AI, 
 1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
 2. Atharva Bavge CE-A atharvabavge@gmail.com 943633371 
