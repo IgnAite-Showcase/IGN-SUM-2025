@@ -10,7 +10,7 @@ Programming: Next JS, Vite, Python, Promptly
 - Solution Architecture -> AI Assistance Bot(15%) -> High Level (Prompts)(13%) -> Generate Complete Application Code (70%) -> Tested (1%) -> Deployed (1%)
 - Web Development(10), Generation (Language JS or framework Next JS) Databricks, Azure Open AI, 
 1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
-2. Atharva Bavge CE-A atharvabavge@gmail.com 943633371 
+2. Atharva Bavge CE-A atharvabavge@gmail.com 9423633371 
 3. Saurav Bhutke CE-B sauravbhukte2308@gmail.com 8177952858 
 4. Abishek Philip CE-B abisheklphilip@gmail.com 8594005654 
 5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
