@@ -29,7 +29,7 @@
 
 - Current State: Entrepreneurs and businesses rely on manual market research, real estate agents, and static data sources to decide on restaurant locations. Tools like Google Maps and Yelp provide some insights but lack comprehensive, multi-factor analysis.
 
-- Proposed State: A web based platform that integrates and analyzes multiple datasets (demographics, traffic, existing restaurant data) using AI/ML algorithms. Users can customize their inputs and receive actionable insights, rankings, and reports.
+- Proposed State: A platform that integrates and analyzes multiple datasets (demographics, traffic, existing restaurant data) using AI/ML algorithms. Users can customize their inputs and receive actionable insights, rankings, and reports.
 
 - Solution:
   - Data Aggregation: Collects and integrates data on demographics, traffic patterns, restaurant reviews, and competitor analysis.
@@ -38,9 +38,9 @@
   - Agile Approach: Fast adaptation to meet time-to-market trends as to evolve successfully in the market.
 
 - Technologies: 
-1.  Frontend : ReactJS
-2.  Backend : NodeJS, ExpressJS
-3.  Databases : SnowFlake(SnowSQL)
+1.  Frontend : Streamlit Visualization
+2.  Backend : SnowPark Python, Cortex AI/ML (Models)
+3.  Databases : SnowSQL
 4.  APIs : Google Maps API
 
 - Use Case Methodology: SIPOC
