@@ -13,11 +13,6 @@
   1. RestaurantPlanner is an AI-driven system that helps users identify the type of restaurant to establish, leveraging demographic data, traffic patterns, restaurant popularity, and user-defined preferences.
   2. The system provides actionable insights and ranking-based recommendations to guide decision-making.
 
-- **Scope**:
-  1. **Limit**: Focuses on urban and semi-urban restaurant locations; relies on the availability of data sources.
-  2. **Industry**: Food & Beverage, Hospitality.
-  3. **Constraint**: AI model accuracy depends on data quality and availability.
-
 - **Persona**:
   1. **Business User**: Entrepreneurs, Restaurant Owners, Franchise Managers.
   2. **Primary Users**: Individuals or organizations planning to set up a restaurant.
