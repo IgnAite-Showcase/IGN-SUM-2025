@@ -51,7 +51,7 @@
 4.  APIs : Google Maps API
 
 - Use Case Methodology: SIPOC
-  1. Supplier : User
+  1. Supplier : User 
   2. Input : Location data, user preferences
   3. Process : Data collection -> AI-driven analysis -> Recommendation generation -> Visualization
   4. Output : Ranked restaurent setup recommendation with detailed insights
