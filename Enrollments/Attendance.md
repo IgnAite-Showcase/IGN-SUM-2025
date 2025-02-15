@@ -13,7 +13,7 @@
 - Maitreyee Warhadpande: 1/11, 1/18, 1/25, 2/1
 
 ### Team: C - Mrunali
-- Mrunali Pusadkar: 1/11, 1/18, 1/25
+- Mrunali Pusadkar: 1/11, 1/18, 1/25, 2/8
 - Akshay Gulhane: 1/11,1/18,1/25
 - Yogendra Bhavsar: 1/11,1/18,1/25
 - Vishal Rathod:(Not in GH)  1/11, 1/18, 1/25 
