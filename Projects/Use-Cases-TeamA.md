@@ -46,7 +46,7 @@
 6. Flexibility: Supports multiple languages, frameworks, and AI libraries.
 
 - Current State:
-1. Developers use standalone IDEs such as VS Code, IntelliJ, or PyCharm.
+1. Developers use standalone IDEs such as VS Code, Intelij or Webstrom.
 2. AI tools like GitHub Copilot or TabNine are often integrated into traditional IDEs.
 3. Collaboration relies on external tools like Git, Slack, or Teams.
 
