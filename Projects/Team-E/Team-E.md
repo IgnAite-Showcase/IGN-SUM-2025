@@ -7,7 +7,7 @@
 
 ### Team E Final Use Case: Location-Based Restaurant Setup Recommendation System Using Demographics, Traffic Patterns, Popularity, and User Preferences
 - Short Name: RestaurantPlanner
-  
+
 - Description: RestaurantPlanner is an AI-driven system that helps users identify the type of restaurant to establish, leveraging demographic data, traffic patterns, restaurant popularity, and user-defined preferences. The system provides actionable insights and ranking-based recommendations to guide decision-making.
   
 - Persona: Primary Users: Entrepreneurs, Restaurant Owners, Franchise Managers, etc.
