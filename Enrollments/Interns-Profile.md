@@ -19,7 +19,8 @@ Programming: Next JS, Vite, Python, Promptly
 ## Team: B - Maitreyee Warhadpande Guide (Vishakha Sharma - RCOEM)
 ### Team Use Case: Behavioral Health Therapy - SoulSync
 - Access to Innovation Beats: teamb/ignaite
-- AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model
+- AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model - Chat GPT Microsoft Copilot Studio)
+- Task: Create Hilevel Diagram
 6. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
 7. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728
 8. Varenya Barve CT-A  varenyabarve2003@gmail.com
@@ -35,7 +36,7 @@ Programming: Next JS, Vite, Python, Promptly
 13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
 14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
 
-## Team: D - Atharva Jibhakate - Nilesh(Guide) +1-973-930-2015
+## Team: D - Atharva Jibhakate - Nilesh (Guide) +1-973-930-2015
 ### Team Use Case: Personalized Mobile App Travel Door2Door Itinerary
 - Access to Innovation Beats: teamd/ignaite
 - Mobile/Web App(10), BackendAPI(10), Database Store(20), Data Analytics AI/ML(40), Visualization(20)
@@ -49,7 +50,15 @@ Programming: Next JS, Vite, Python, Promptly
 ### Team Use Case: Location Demographics - Based Restaurant Business Recommendation
 - Snow Flake: Database, SnowPark Python, Java, Scala, Streamlit Visualization, Cortex AI/ML
 - Access to Innovation Beats: teame/ignaite
+- Input()
 19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
 20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
 21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050
 22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548
+
+#### Options
+1) Model Off the Shelf. Augument knowledge on the Fly. $
+2) Retrival Augmented Generation (RAG) - Vector Index (Knowledge) $$
+3) FineTune - Type of Cat 5% (Pre-Trained - Animal 95%) $$$
+4) Continued Pre-Trained (Pre-Trained - Animal 95% - 5% New Animals) $$$$
+5) Pre-Training (Train from Scratch) $$$$$
