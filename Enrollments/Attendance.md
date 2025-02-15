@@ -1,9 +1,9 @@
 ### Team: A - Atharva
-- Kevin Beji:1/11,1/18,1/25
-- Atharva Bavge:1/11,1/18,1/25,2/1,2/8,
-- Saurav Bhutke:1/11,1/18,1/25,2/8
-- Abishek Philip:1/18,1/25,2/8
-- Sakshi Kasture: (Not in GH) 1/11,1/18,1/25,2/8
+- Kevin Beji:1/11,1/18,1/25,2/15
+- Atharva Bavge:1/11,1/18,1/25,2/1,2/8,2/15,
+- Saurav Bhutke:1/11,1/18,1/25,2/8,2/15
+- Abishek Philip:1/18,1/25,2/8,2/15
+- Sakshi Kasture: (Not in GH) 1/11,1/18,1/25,2/8,2/15
 
 ### Team: B - Maitreyee
 - Aditi Kapkar: 1/11, 1/18, 1/25, 2/1
