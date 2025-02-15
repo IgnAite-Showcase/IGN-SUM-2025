@@ -22,7 +22,7 @@
 - Yachana Mahant: 1/11
 - Atharva Jibhakate: 1/11
 - Prajwal Potfode: (Not in GH)
-- Poorva Thote (Not in GH) 
+- Purva Thote 1/11,1/25,2/1,2/8,2/15
 
 ### Team: E - Divyani
 - Divyani Pendam
