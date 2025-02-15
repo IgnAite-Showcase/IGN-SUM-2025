@@ -16,7 +16,7 @@ Programming: Next JS, Vite, Python, Promptly
 5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
 
 # YCCE (16) - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
-## Team: B - Maitreyee Warhadpande Guide (Vishakha Sharma - RCOEM)
+## Team: B - Maitreyee Warhadpande Guide (Vishakha Sharma - RCOEM 91-917-546-5711)
 ### Team Use Case: Behavioral Health Therapy - SoulSync
 - Access to Innovation Beats: teamb/ignaite
 - AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model - Chat GPT Microsoft Copilot Studio)
