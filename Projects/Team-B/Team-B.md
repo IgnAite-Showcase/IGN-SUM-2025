@@ -95,3 +95,10 @@ As a young professional experiencing anxiety, I want a personalized and empathet
   -What: Expresses frustration and anxiety.
   -Why: The assistant provides a calming breathing exercise for immediate relief.
 
+
+
+link to use-cases : 
+link1 : https://app.eraser.io/workspace/PceCUCDD5FXps8nZYvGe?origin=share
+link2 : https://app.eraser.io/workspace/bDHEi9KX0ZcXSSDKTIWB?origin=share
+
+
