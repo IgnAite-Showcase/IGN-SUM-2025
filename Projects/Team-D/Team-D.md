@@ -1,10 +1,9 @@
-Team: D - Lead (Atharwa)
+Team: D - Lead (Atharva)
 - Individual Use cases for final selection
 1. Yachana Mahant: AI Assistant for Farmers to take advantage of Government Schemes in local Language
-2. Atharva Jibhakate: Personalized Travel Itinerary Generator (Door/End - Door/End)(Rank1)
+2. Atharva Jibhakate(Rank-1): SmartJourney - Personalized Travel Itinerary Generator (Door/End - Door/End)(Rank1)
 3. Prajwal Potfode: SecureVision - Automated Security Identitity Detection for Criminal Background Suspects.
-4. Purva Thote: Portfolio Tracker(Rank2)
-Description: A web app for tracking personal investments (stocks, crypto, etc.).
+4. Purva Thote: Portfolio Tracker(Rank2) - A web app for tracking personal investments (stocks, crypto, etc.).
 
 ### Team D Final Use Case:  Personalized Travel Itinerary Generator (Door/End - Door/End)
 
@@ -71,4 +70,3 @@ Payment Gateways: Integration with Stripe or PayPal for seamless transactions
 3. Process: State T0 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
 4. Output:  State T1 JSON(Current(Nagpur) -[Parameters]-> Destination(Goa) -[Parameters]-> Current(Nagpur))
 5. Customer: Traveler (gets iternrary after finalizing) 
-
