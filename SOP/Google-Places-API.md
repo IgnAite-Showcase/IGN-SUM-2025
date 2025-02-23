@@ -4,3 +4,5 @@
 - https://developers.google.com/maps/documentation/places/web-service/search-nearby
 - Working Example API call with Google Places KEY: 
 - maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=cruise&location=-33.8670522%2C151.1957362&radius=15000&type=restaurant&key=AIzaSyBBthngfBjUHzBLDaVmtYuC6DrMdVb8hXo
+### Clifton NJ: 
+- https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=restaurant&location=40.865664%2C-74.161318&radius=15000&type=restaurant&key=AIzaSyBBthngfBjUHzBLDaVmtYuC6DrMdVb8hXo
