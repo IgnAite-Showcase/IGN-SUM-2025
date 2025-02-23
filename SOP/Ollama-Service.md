@@ -2,6 +2,8 @@
 - pip install ollama
 - ollama pull llama3.2
 - ollama run llama3.2
+### Start API Service on port 11435
+- Default port 11434 is busy
 - set OLLAMA_HOST=127.0.0.1:11435
 - ollama serve
 - curl 127.0.0.1:11435
