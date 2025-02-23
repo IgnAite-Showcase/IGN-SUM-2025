@@ -39,34 +39,35 @@ def get_collection(mdb, cname):
     print(f"Available Collections in DB: {collection_names}")
     return mdb[cname]
 
-if __name__ == '__main__':
-    from easygui import passwordbox
-    import pprint
-    password = passwordbox("Enter password:")
-    ### Get  Database and Collection Handlers
-    mdb = connect_mdb('SpiDB', 'SPIDEV', password)
-    dbc = get_collection(mdb, "AppAuth")
 
-    ### Add New Index to Collection
-    dbc.create_index(name="User", keys=[('userid',1), ("name",1), ("type",1), ("password",1)] )
-    print(dbc.index_information())
+from easygui import passwordbox
+import pprint
+password = passwordbox("Enter password:")  # Glad2@seeyou
+### Get  Database and Collection Handlers
+mdb = connect_mdb('SpiDB', 'SPIDEV', password)
+dbc = get_collection(mdb, "AppAuth")
 
-    ### Add ome Row to Specific Index
-    postid = dbc.insert_one({'userid': 'investor1', 'name': 'Investors One Bank', 'type': 'Investor', 'password': 'investor1'})
-    print(postid)
-    postid = dbc.insert_one({'userid': 'investor2', 'name': 'Investors Two Bank', 'type': 'Investor', 'password': 'investor2'})
-    print(postid)
+### Add New Index to Collection
+dbc.create_index(name="User", keys=[('userid',1), ("name",1), ("type",1), ("password",1)] )
+print(dbc.index_information())
 
-    #updresp = dbc.find_one_and_update({'AppAuth.userid': 'investor1'}, {'$set': {'AppAuth.name': 'Investors One'}})
-    #print(updresp)
+### Add one Row to Specific Index
+postid = dbc.insert_one({'userid': 'investor1', 'name': 'Investors One Bank', 'type': 'Investor', 'password': 'investor1'})
+print(postid)
+postid = dbc.insert_one({'userid': 'investor2', 'name': 'Investors Two Bank', 'type': 'Investor', 'password': 'investor2'})
+print(postid)
 
-    #delresp = dbc.find_one_and_delete({'userid': 'investor1'})
-    #print(delresp)
+### Update Specific Index
+updresp = dbc.find_one_and_update({'AppAuth.userid': 'investor1'}, {'$set': {'AppAuth.name': 'Investors One'}})
+print(updresp)
 
-    pprint.pprint(list(dbc.find({'userid': 'investor2'})))
+delresp = dbc.find_one_and_delete({'userid': 'investor1'})
+print(delresp)
 
-    ### Close Database Connection
-    mdb.client.close()
+pprint.pprint(list(dbc.find({'userid': 'investor2'})))
+
+### Close Database Connection
+mdb.client.close()
 ```
 
 References: 
