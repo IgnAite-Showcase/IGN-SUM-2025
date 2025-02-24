@@ -25,7 +25,7 @@
 - Purva Thote 1/11,1/25,2/1,2/8,2/15
 
 ### Team: E - Divyani
-- Divyani Pendam
-- Shriraj Pandhare
-- Mahesh Shastrakar
-- Om Rahudkar: 1/11
+- Divyani Pendam: 1/25, 2/1, 2/8, 2/15, 2/22
+- Shriraj Pandhare: 1/25, 2/1, 2/8, 2/15, 2/22
+- Mahesh Shastrakar: 1/25, 2/1, 2/8, 2/15, 2/22
+- Om Rahudkar: 1/11, 1/25, 2/1, 2/8, 2/15, 2/22
