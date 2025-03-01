@@ -16,7 +16,7 @@
 - Mrunali Pusadkar: 1/11, 1/18, 1/25, 2/8, 2/15
 - Akshay Gulhane: 1/11,1/18,1/25
 - Yogendra Bhavsar: 1/11,1/18,1/25
-- Vishal Rathod:(Not in GH)  1/11, 1/18, 1/25 
+- Vishal Rathod: 1/11, 1/18, 1/25, 2/8, 2/15
 
 ## Team: D - Yachana
 - Yachana Mahant: 1/11
