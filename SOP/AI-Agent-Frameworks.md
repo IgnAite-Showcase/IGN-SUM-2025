@@ -1,7 +1,11 @@
 ## AI Agent
 
 #### Strategies
+- ReAct : Reasoning + Acting to improve decision making.
+- CoT: Chain of Thought Prompting to problem into steps.
 - Few-shot / Zero-shot learning: Low training data	
+- Self-Reflective Prompting wher AI Critiques response iteratively.
+- Autonomous Agent: AutoGPT & BabyAGI breakdoen tasks
 - Rule-based + ML hybrid: Predictable queries	
 - Self-learning AI / Clustering: New intents evolve	
 - Context-aware intent detection: Multi-turn dialogues	
