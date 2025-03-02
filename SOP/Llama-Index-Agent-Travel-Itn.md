@@ -1,7 +1,9 @@
-### LlamaIndex Agent
-##### Example to add Travel Plan to add source, destination, datetime, stop
+### LlamaIndex Agent 
+
+##### Example to add Travel Plan to add [source, destination, datetime, stop]
+- Agent makes it's own decision to parse input and pass it to calling above functions.
 - Output: You have added "Nagpur" as the source, "Mumbai" as the destination, and March 4 at 5PM as the datetime to your itinerary.
-- {'source': 'Nagpur', 'destination': 'Mumbai', 'datetime': '2023-03-04T17:00:00'}
+- itinerary: {'source': 'Nagpur', 'destination': 'Mumbai', 'datetime': '2023-03-04T17:00:00'}
 
 ```
 # pip install llama-index
