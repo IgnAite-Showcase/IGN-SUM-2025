@@ -6,11 +6,11 @@
 - Sakshi Kasture: (Not in GH) 1/11,1/18,1/25,2/8,2/15,3/1
 
 ### Team: B - Maitreyee
-- Aditi Kapkar: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22
-- Ishika Ramdham: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22
-- Varenya Barve: (Not in GH) 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22
-- Nikhil Khonde: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22
-- Maitreyee Warhadpande: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22
+- Aditi Kapkar: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22, 3/1, 3/8
+- Ishika Ramdham: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22, 3/1, 3/8
+- Varenya Barve: (Not in GH) 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22, 3/1, 3/8
+- Nikhil Khonde: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22, 3/1, 3/8
+- Maitreyee Warhadpande: 1/11, 1/18, 1/25, 2/1, 2/15, 2/17, 2/22, 3/1, 3/8
 
 ### Team: C - Mrunali
 - Mrunali Pusadkar: 1/11, 1/18, 1/25, 2/8, 2/15
