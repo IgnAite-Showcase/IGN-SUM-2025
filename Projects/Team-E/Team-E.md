@@ -63,10 +63,6 @@
   3. As a market analyst, I want an AI-generated ranking of restaurant locations so that I can provide better recommendations to my clients.
   4. As a franchise manager, I want predictive success metrics for new locations so that I can make strategic expansion decisions.
 
-- WorkFlow
-
-![WorkFlow](HLD.png "WorkFlow")
-
 - UseCase
 
 ![UseCase](Use%20case.jpeg "UseCase")
