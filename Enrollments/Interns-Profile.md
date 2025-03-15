@@ -4,7 +4,7 @@ Programming: Next JS, Vite, Python, Promptly
 
 
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
-## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM) 
+## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM 895-677-7007 
 ### Team Use Case: IDE for Complete Application Assembly
 - Access to Innovation Beats: teama/ignaite
 - Solution Architecture -> AI Assistance Bot(15%) -> High Level (Prompts)(13%) -> Generate Complete Application Code (70%) -> Tested (1%) -> Deployed (1%)
