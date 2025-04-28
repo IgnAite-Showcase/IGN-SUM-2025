@@ -15,7 +15,7 @@
 ### Team: C - Mrunali
 - Mrunali Pusadkar: 1/11, 1/18, 1/25, 2/8, 2/15
 - Akshay Gulhane: 1/11,1/18,1/25
-- Yogendra Bhavsar: 1/11,1/18,1/25
+- Yogendra Bhavsar: 1/11,1/18,1/25,2/1,2/8,2/15,2/22,3/1,3/8,3/15,3/22,3/29
 - Vishal Rathod: 1/11,1/18,1/25,2/1,2/8,2/15,2/22,3/1,3/8,3/15,3/22,3/29
 
 ## Team: D - Yachana
