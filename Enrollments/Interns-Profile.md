@@ -21,11 +21,11 @@ Programming: Next JS, Vite, Python, Promptly
 - Access to Innovation Beats: teamb/ignaite
 - AI Assistance Simple Bot (Brain [Speak, Listen], BotTech/Cloud, Databse, LLM Model - Chat GPT Microsoft Copilot Studio)
 - Task: Create Hilevel Diagram
-6. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366
-7. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728
-8. Varenya Barve CT-A  varenyabarve2003@gmail.com
-9. Nikhil Khonde CT-A  khondenikhil831@gmail.com
-10. Maitreyee Warhadpande CT-A maitreyeewarhadpande27@gmail.com 9420522172
+6. Aditi Kapkar CT-A 	aditikapkar03@gmail.com 9699564366 https://www.canva.com/design/DAGmYG9L97o/wPpPsLhVGxoizp5-bjpgzw/view
+7. Ishika Ramdham 	CT-A 	ishika2020ramdham@gmail.com	9022566728 https://www.canva.com/design/DAGmYMdgjTs/2GfSvC2e-iEq5hODSCeg2A/view
+8. Varenya Barve CT-A  varenyabarve2003@gmail.com https://www.canva.com/design/DAGmYC5mhoc/y-9Y5vqfcoBuq1bQLq-a0g/view
+9. Nikhil Khonde CT-A  khondenikhil831@gmail.com https://www.canva.com/design/DAGmYJKRNYg/krcnN6v6j60eEMPZK2p5PQ/view
+10. Maitreyee Warhadpande CT-A maitreyeewarhadpande27@gmail.com 9420522172 https://www.canva.com/design/DAGmYGRSeyM/aeFYZUgcoZ9HunTTkzAk9w/view
 
 ## Team: C - Mrunali Pusadkar - Nilesh(Guide) +1-973-930-2015
 ### Team Use Case: Digitalize Electronic Health Record (Types)
