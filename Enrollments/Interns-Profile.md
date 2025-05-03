@@ -51,10 +51,10 @@ Programming: Next JS, Vite, Python, Promptly
 - Snow Flake: Database, SnowPark Python, Java, Scala, Streamlit Visualization, Cortex AI/ML
 - Access to Innovation Beats: teame/ignaite
 - Input()
-19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687
-20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003
-21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050
-22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548
+19. Divyani Pendam YCCE CT divyanivpendam@gmail.com 9307596687 https://www.canva.com/design/DAGmYSuKnf8/JUd3PU6nytV5RixOrvbxpw/view
+20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003 https://www.canva.com/design/DAGmYVIAtQY/mLPiXFKSKfnKZ_EIM_eyiw/view
+21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050 https://www.canva.com/design/DAGmYb9WBto/GLEbEKeFLKu0uKjW_haAFw/view
+22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548 https://www.canva.com/design/DAGmYMZq5fY/BipzKgsrguSrTTIhCRIPDA/view
 
 #### Options
 1) Model Off the Shelf. Augument knowledge on the Fly. $
