@@ -1,9 +1,13 @@
 # IgnAite Summer 2025 (Jan-Apr) Internship
-## Closing Ceremony
-### IgnAite's Spark
-- A summer of learning, bold and bright, Ideas took flight in IgnAite's light.
-- With passion and purpose, we found our way, The spark we found will forever stay.
+## Use Case Demonstration
 
+### IgnAite's Spark
+```
+A summer of learning, bold and bright,
+Ideas took flight in IgnAite's light.
+With passion and purpose, we found our way,
+The spark we found will forever stay.
+```
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
 ## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM 895-677-7007 
 ### Team Use Case: IDE for Complete Application Assembly
@@ -56,3 +60,15 @@
 20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003 https://www.canva.com/design/DAGmYVIAtQY/mLPiXFKSKfnKZ_EIM_eyiw/view
 21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050 https://www.canva.com/design/DAGmYb9WBto/GLEbEKeFLKu0uKjW_haAFw/view
 22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548 https://www.canva.com/design/DAGmYMZq5fY/BipzKgsrguSrTTIhCRIPDA/view
+
+### Closing Comment
+```
+In summer's glow, we dared to dream, With curious minds and a fearless team.
+From sketches bold to ideas bright, We turned the dark to sparks of light.
+
+We built, we broke, we tried once more, Each failure just an open door.
+And in this space where passion grew, We found what learning dares to do.
+
+Now paths diverge, but still we keep, The seeds we sowed, the roots run deep.
+For IgnAite lit a flame in each, A fire the world has yet to reach.
+```
