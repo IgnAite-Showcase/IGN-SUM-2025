@@ -1,8 +1,3 @@
-## Suggested Tools and Technologies
-Drawing: Draw.io, VisualPagdigm, Visio
-Programming: Next JS, Vite, Python, Promptly
-
-
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
 ## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM 895-677-7007 
 ### Team Use Case: IDE for Complete Application Assembly
@@ -55,10 +50,3 @@ Programming: Next JS, Vite, Python, Promptly
 20. Shriraj Pandhare YCCE CT pandhareshriraj@gmail.com 9156005003 https://www.canva.com/design/DAGmYVIAtQY/mLPiXFKSKfnKZ_EIM_eyiw/view
 21. Mahesh Shastrakar YCCE CT mvshastrakar@gmail.com 7666831050 https://www.canva.com/design/DAGmYb9WBto/GLEbEKeFLKu0uKjW_haAFw/view
 22. Om Rahudkar (IgnAite Intern) OmRahudkar@gmail.com 8857800548 https://www.canva.com/design/DAGmYMZq5fY/BipzKgsrguSrTTIhCRIPDA/view
-
-#### Options
-1) Model Off the Shelf. Augument knowledge on the Fly. $
-2) Retrival Augmented Generation (RAG) - Vector Index (Knowledge) $$
-3) FineTune - Type of Cat 5% (Pre-Trained - Animal 95%) $$$
-4) Continued Pre-Trained (Pre-Trained - Animal 95% - 5% New Animals) $$$$
-5) Pre-Training (Train from Scratch) $$$$$
