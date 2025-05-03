@@ -1,10 +1,8 @@
 # IgnAite Summer 2025 (Jan-Apr) Internship
 ## Closing Ceremony
-- IgnAite's Spark
-```A summer of learning, bold and bright,
-Ideas took flight in IgnAite's light.
-With passion and purpose, we found our way—
-The spark we found will forever stay.```
+### IgnAite's Spark
+- A summer of learning, bold and bright, Ideas took flight in IgnAite's light.
+- With passion and purpose, we found our way, The spark we found will forever stay.
 
 # SVP(5) - Supervision: Reema Roychaudhary rroychaudhary@stvincentngp.edu.in
 ## Team: A - Atharva Bavge - Guide (Smith Khobragade - RCOEM 895-677-7007 
