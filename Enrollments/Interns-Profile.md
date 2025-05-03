@@ -41,10 +41,10 @@ Programming: Next JS, Vite, Python, Promptly
 - Access to Innovation Beats: teamd/ignaite
 - Mobile/Web App(10), BackendAPI(10), Database Store(20), Data Analytics AI/ML(40), Visualization(20)
 - Oracle Apex, Database, API, LLM, Databricks, Azure OpenAI, Promptly Agents
-15. Yachana Mahant CT-A  yachanamahant@gmail.com	9765334656
-16. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210
-17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454
-18. Purva Thote	CT-B	purvathote@gmail.com 9423102323
+15. Yachana Mahant CT-A  yachanamahant@gmail.com	9765334656 https://www.canva.com/design/DAGmYU0KWvA/ei2PjSYt4btrlOXlxEJq4w/view
+16. Atharva Jibhakate (YCCE) atharv.jibhkate25@gmail.com 8767782210 https://www.canva.com/design/DAGmYSyUoZM/xMNL-t0ufS8wMhn4x5vyHA/view
+17. Prajwal Potfode	AIDS-A	potfodeprajwal@gmail.com	7709978454 https://www.canva.com/design/DAGmYa5xOvg/iazsooS2Zzp4ol7T67qvFA/view
+18. Purva Thote	CT-B	purvathote@gmail.com 9423102323 https://www.canva.com/design/DAGmYSJle3E/WExQJg_zg7HKZwSDAruOfw/view
 
 ## Team: E - Divyani Pendam - Anand Sir (Guide) +1-203-550-7824
 ### Team Use Case: Location Demographics - Based Restaurant Business Recommendation
