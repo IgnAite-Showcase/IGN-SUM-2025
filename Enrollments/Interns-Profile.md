@@ -31,10 +31,10 @@ Programming: Next JS, Vite, Python, Promptly
 ### Team Use Case: Digitalize Electronic Health Record (Types)
 - Access to Innovation Beats: teamc/ignaite
 - Database, NLP, SQL, Databricks, Azure OpenAI - OCR/ Python Library/ Image to Text/ Content Understanding, Databricks, API
-11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090
-12. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125
-13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482
-14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888
+11. Mrunali Pusadkar CT-B	mrunalipusadkar03@gmail.com	8412051090 https://www.canva.com/design/DAGmYWevZdo/hwF-GbulFNVzSSpvQ9jhSg/view
+12. Akshay Gulhane CT-B	gulhaneakshay55@gmail.com	8605209125 https://www.canva.com/design/DAGmYQrq3ns/dVQzO28QrK2y_2jfylglcA/view
+13. Yogendra Bhavsar	CT-B	bhavsaryogendra201@gmail.com	7620465482 https://www.canva.com/design/DAGmYfYtPLs/BNqhFHq_UClVhO6ltTRn5w/view
+14. Vishal Rathod CT-B	vishalrathod0811@gmail.com	9075576888 https://www.canva.com/design/DAGmYR8zcdw/iEbchoFUtc9n0qQrpV3J6g/view
 
 ## Team: D - Atharva Jibhakate - Nilesh (Guide) +1-973-930-2015
 ### Team Use Case: Personalized Mobile App Travel Door2Door Itinerary
