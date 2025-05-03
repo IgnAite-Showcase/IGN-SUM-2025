@@ -9,11 +9,11 @@ Programming: Next JS, Vite, Python, Promptly
 - Access to Innovation Beats: teama/ignaite
 - Solution Architecture -> AI Assistance Bot(15%) -> High Level (Prompts)(13%) -> Generate Complete Application Code (70%) -> Tested (1%) -> Deployed (1%)
 - Web Development(10), Generation (Language JS or framework Next JS) Databricks, Azure Open AI, 
-1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 
-2. Atharva Bavge CE-A atharvabavge@gmail.com 9423633371 
-3. Saurav Bhutke CE-B sauravbhukte2308@gmail.com 8177952858 
-4. Abishek Philip CE-B abisheklphilip@gmail.com 8594005654 
-5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 
+1. Kevin Beji CE-A kevinbeji1997@gmail.com 9718862960 https://www.canva.com/design/DAGmYHlN0qA/GHlOTV2ZkcD8oiaNj_vXWQ/view
+2. Atharva Bavge CE-A atharvabavge@gmail.com 9423633371 https://www.canva.com/design/DAGmYBOB_sE/KxinjRcuFLwSHzccX1Svkg/view
+3. Saurav Bhutke CE-B sauravbhukte2308@gmail.com 8177952858 https://www.canva.com/design/DAGmYGuS-Bc/TJXmCH80mgal8brIPoj6tw/view
+4. Abishek Philip CE-B abisheklphilip@gmail.com 8594005654 https://www.canva.com/design/DAGmYF_maLQ/DUEkgFVV4VjilvT4eC5qiA/view
+5. Sakshi Kasture CE-A sakshikasture11@gmail.com 7822020552 https://www.canva.com/design/DAGmYGtbFos/Pm1660WnJAVx-uVhooV_9Q/view
 
 # YCCE (16) - Supervision: Gendlal Vaidya gendlalvaidya@gmail.com
 ## Team: B - Maitreyee Warhadpande Guide (Vishakha Sharma - RCOEM 91-917-546-5711)
