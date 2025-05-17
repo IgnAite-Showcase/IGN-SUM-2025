@@ -4,8 +4,14 @@
 
 #### Collaboration Teams
 1. Branding Team - Aditi and Varenya
-2. Website Team - Nikhil and Smit
-3. Beats Team - Atharva and Saee
+  - Content Management Gen AI (Website, Company, Brand, Logo)
+  - Website for Content Management Writer(API & Database NOSQL)
+3. Website Team - Nikhil and Smit
+  - Integrate Website with Reader (API & Database NOSQL)
+  - Collaborate on New Tabs, Topics, Content.
+4. Beats Team - Atharva and Saee
+  - Internship, Innovation of new Product and Ideas Incubation
+  - Oracle Apex Rapid Web Development -> React/Node JS
 
 #### Objectives:
 - Refine Summer Internship Structure - 2026
