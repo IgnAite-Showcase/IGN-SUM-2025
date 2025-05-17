@@ -7,8 +7,17 @@
 2. Website Team - Nikhil and Smit
 3. Beats Team - Atharva and Saee
 
-#### Rewards:
-- Recognize Students with top Performance: Monthly basis
+#### Objectives:
+- Refine Summer Internship Structure - 2026
+- Promote IgnAite Brand on LinkedIn Page
+- Build IgnAite Company Vision and Mission
+- Define IgnAite Business Model - Who we are?
+- Develop IgnAite Website
+- Wall of Fame with past Intern Testimony
+- Register IgnAite I2C as Startup in India
+- IgnAite Innovation Center (I2C) Setup
+- Mature Innovation BEATS Application
+- Use Case Development & Revenue Stream
 
 #### Tools and Technologies
 - Ad Hoc: Depend on Project Needs
