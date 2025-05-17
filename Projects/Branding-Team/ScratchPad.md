@@ -30,3 +30,22 @@ Early impact (first 4 years)
 30 + external partners (start‑ups, hospitals, engineering firms) have submitted challenges.
 
 6 provisional patents and 3 student‑led start‑ups trace their roots to Innovation BEATS project work.
+
+Typical User Journey
+Challenge discovery – Student browses curated briefs, filtered by domain, SDG, or difficulty.
+
+Team formation – Smart‑match suggests teammates; user can accept or open to manual invites.
+
+Kick‑off canvas – Pre‑loaded Design‑Thinking Mural™ board plus OKR template.
+
+Sprint loop (2‑week default):
+
+Daily stand‑up bot check‑in (Slack / MS Teams integration).
+
+Mid‑sprint mentor review (async video or live).
+
+Demo & feedback capture → auto‑populates learning log.
+
+Showcase – Live stream + juried scoring rubric; top 10 % flagged for IP review or summer fellowship.
+
+
