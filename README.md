@@ -1,17 +1,11 @@
-### IgnAite - Summer 2025 Internship - Weekly Status Update
-- Microsoft Teams Meeting series:
-- Every Saturday 7:30PM (IST)
+### IgnAite Internship
+- Microsoft Teams Meeting Series: Every Saturday 7:30PM (IST)
 - Meeting link: https://teams.live.com/meet/9361437840269?p=KRrb0xpc9dNl8u8pWp
 
-#### Week Days Collaboration
-- Supervisor: Professor, Nilesh and Anand 
-- Days: Mon, Wed, Fri
-- Academic Calendar: Jan - April
-
-#### Use Cases Project
-- Number of Use Cases: 7
-- Members per Use Case: 3
-- Brainstom: Use Case Ideas
+#### Collaboration Teams
+1. Branding Team - Aditi and Varenya
+2. Website Team - Nikhil and Smit
+3. Beats Team - Atharva and Saee
 
 #### Rewards:
 - Recognize Students with top Performance: Monthly basis
@@ -26,6 +20,6 @@
 - Web Development: Apex.
 
 #### Training
--- https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation#video
+- https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation#video
 - Databricks Basics: https://www.databricks.com/learn/training/getting-started-with-data-engineering
 - Databricks Advance AI: https://www.databricks.com/learn/training/get-started-with-generative-ai-accreditation
