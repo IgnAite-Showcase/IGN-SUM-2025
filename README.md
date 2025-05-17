@@ -15,7 +15,8 @@
   - Internship, Innovation of new Product and Ideas Incubation, Accerlation
   - Oracle Apex Rapid Web Development
   - Refactor: React/Node JS
-  - Charter (User-Dev), Business Requirement(BRD), High Level Design, AI - Business Requirement, Functional Requirement (FRD), Technical Specification, Development Plan, System Integration Test Plan (SIT), User Acceptance Test Plan (UAT), Turn Over Documentation, RACI Metrics (Dev and Support), Support and Training Documentation, Standard Operating Procedure, Sprint Planning, Strint Backlog (Epic-> Features -> Stories -> Tasks -> Bugs -> Test Cases).
+  - Problem Statement: Typical Product Innovation (R&D) and Product Development(SDLS) require huge amount document with repeating content. That Reduandancy of content pose challenge for maintenance of content and keep it updated with Change Mangement.
+  - Documents Required: Charter (User-Dev), Business Requirement(BRD), High Level Design, AI - Business Requirement, Tecnical and Business Impact Analysis, Solution Blueprint, Roadmap, Timelines, Milestones, Functional Requirement (FRD), Technical Design Specification, Development Plan, Execution Sprint Planning, Strint Backlog (Epic-> Features -> Stories -> Tasks -> Bugs -> Test Cases), System Integration Test Plan (SIT), User Acceptance Test Plan (UAT), Turn Over Documentation, RACI Metrics (Dev and Support), Support and Training Documentation, Standard Operating Procedure (SOP).
 
 #### Objectives:
 - Refine Summer Internship Structure - 2026
