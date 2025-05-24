@@ -37,8 +37,7 @@
 - IGNDEV: IGNDEV/Glad2@seeyou
 - IGNPROD: IGNPROD/See2@believe
 - Innivation BEATS DEV: https://ehlzkw6ligwpoao-q0xacdgm8286biwc.adb.us-ashburn-1.oraclecloudapps.com/ords/r/igndev/beats/login
-- Userid:
-- Innivation BEATS PROD:
+- Innivation BEATS PROD: https://ehlzkw6ligwpoao-q0xacdgm8286biwc.adb.us-ashburn-1.oraclecloudapps.com/ords/r/ignprod/beats/login
 - Databricks: https://adb-5396569558483375.15.azuredatabricks.net/?o=5396569558483375
 - Cloud : Azure
 - Web Development: Apex.
