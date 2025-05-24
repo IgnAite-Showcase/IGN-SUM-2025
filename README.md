@@ -33,8 +33,12 @@
 #### Tools and Technologies
 - Ad Hoc: Depend on Project Needs
 - Git Hub: https://github.com/IgnAite-Showcase/IGN-SUM-2025/edit/main
-- Apex: https://EHLZKW6LIGWPOAO-Q0XACDGM8286BIWC.adb.us-ashburn-1.oraclecloudapps.com/ords/apex
+- Apex Development: https://EHLZKW6LIGWPOAO-Q0XACDGM8286BIWC.adb.us-ashburn-1.oraclecloudapps.com/ords/apex
 - IGNDEV: IGNDEV/Glad2@seeyou
+- IGNPROD: IGNPROD/See2@believe
+- Innivation BEATS DEV: https://ehlzkw6ligwpoao-q0xacdgm8286biwc.adb.us-ashburn-1.oraclecloudapps.com/ords/r/igndev/beats/login
+- Userid:
+- Innivation BEATS PROD:
 - Databricks: https://adb-5396569558483375.15.azuredatabricks.net/?o=5396569558483375
 - Cloud : Azure
 - Web Development: Apex.
