@@ -1,1 +1,33 @@
-
+# Concept Statement of Work - SOW
+- Title: Consulting Service - Client Engagement Contract  Statement of Work (SOW)
+- Design Company Logo 
+- Prepared for Client: <Client Name> Client Contact Person:  
+- Prepared by Service Provider: <provider name> Service Provider Contact Person
+- Audit Log: Date and Version: 1.0 
+- Project Title: along with <Client> Name
+- Introduction: E.g. This Statement of Work (“SOW”) defines the scope, objectives, deliverables, schedule, responsibilities, and associated contractual fees
+- Engagement Objectives: E.g. Enhance the Client’s existing business workflow processes, long-term success, Artificial Intelligence (AI), cloud technologies, web and software development, strategic business objectives, foster innovation, and enhance overall productivity across the organization. 
+- Service Providers Roles and Responsibilities: 
+- Clients Roles and Responsibilities: 
+- Assumptions & Dependencies 
+- Client Responsibilities: The Client shall provide timely access to all necessary data, resources, and clearly defined requirements reasonably required for execution of this Statement of Work (“SOW”). 
+- Change Management:  Any material changes to the scope of this SOW shall be subject to the Change Management provisions outlined herein. All extensions or amendments must be mutually agreed upon in writing by both parties. 
+- Timelines and Dependencies:  The delivery timeline for individual tasks is contingent upon mutual availability, timely feedback, and the estimated level of effort required to complete each task. 
+- Scope Limitation:  IgnAite LLC shall be responsible for delivering the agreed-upon objectives within the scope of this SOW. The IgnAite LLC (Service Provider) shall not be held liable for the Client’s overall business outcomes, strategic decisions, or internal operations. 
+- Termination and Completion:  Upon successful completion of the SOW, both parties shall be under no further obligation to continue the engagement, unless otherwise agreed in writing. Either party may disengage without further commitment beyond the terms outlined herein. 
+- Termination for Cause:  In the event of a lapse in payment, withdrawal of Client interest or cooperation, or failure to meet obligations, IgnAite LLC reserves the right to terminate this SOW. 
+- Ownership of Deliverables:  All final deliverables produced under this engagement shall be considered the exclusive property of the Client, who shall be solely responsible for their secure storage, retention, and ongoing management. 
+- Confidentiality:  IgnAite LLC agrees to maintain strict confidentiality regarding any proprietary, sensitive, or confidential information received from the Client and shall not disclose such information to any third party without prior written consent. 
+- Post-Engagement Data Handling: Upon completion or termination of the SOW, IgnAite LLC shall perform a reasonable cleanup of proprietary information within its systems. The Service Provider shall not be responsible for long-term storage, archival, or retention of Client data or deliverables. 
+- Payment Terms 
+- Task-Based Fees:  Fees for individual deliverables and tasks shall be determined and mutually agreed upon by IgnAite LLC (“Service Provider”) and the Client prior to commencement.  
+- Payment Structure: Each fee will be tied to a clearly defined scope and deliverable. Unless otherwise specified, payment shall be made in two installments 
+- Advance Payment: Fifty percent (50%) of the total agreed fee is due upfront, prior to start of work. 
+- Final Payment: Remaining fifty percent (50%) is due upon completion & acceptance of deliverable. 
+- Payment Schedule:  Payments shall be made according to a milestone-based schedule mutually established by both parties.  
+- Milestone Schedule: Each milestone shall correspond to a specific deliverable or phase of work as outlined in the SOW. 
+- Payment Default and Termination:  Failure by the Client to remit payment in accordance with the agreed terms may result in the suspension of services and may constitute grounds for immediate termination of this Statement of Work by IgnAite LLC, without prejudice to any rights or remedies available under law or contract. 
+- SOW Project Deliverables and Payment Timeline (Task, Type, Task Description, Request Date, Start Date, Advance Payment , Delivery Date, Delivery Payment, Support Date)
+- SOW Original Delivery Scope
+- SOW Extension Change Management  
+- Agreement Sign-Off Both Parties Details.
