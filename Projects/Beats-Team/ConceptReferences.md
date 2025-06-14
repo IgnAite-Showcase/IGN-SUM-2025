@@ -1,4 +1,9 @@
+# Organization Logo Development
+- Description:
+- Components:
+
 # Concept Statement of Work - SOW
+- Description:
 - Title: Consulting Service - Client Engagement Contract  Statement of Work (SOW)
 - Design Company Logo 
 - Prepared for Client: <Client Name> Client Contact Person:  
