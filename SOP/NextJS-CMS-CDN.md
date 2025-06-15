@@ -33,3 +33,4 @@ Ref: https://github.com/vercel/next-learn/tree/main/dashboard/starter-example
 - Only the content inside the page file will be publicly accessible. For example, the /ui and /lib folders are colocated inside the /app folder along with your routes.
 
 -  ./openssl rand -base64 32
+-  http://localhost:3000/seed
