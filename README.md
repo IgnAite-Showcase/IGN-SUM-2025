@@ -18,3 +18,20 @@
 - https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation#video
 - Databricks Basics: https://www.databricks.com/learn/training/getting-started-with-data-engineering
 - Databricks Advance AI: https://www.databricks.com/learn/training/get-started-with-generative-ai-accreditation
+
+#### Meeting Planning
+- Managing Director: 
+- Venue: Safe Place: Chatrapati Chowk - Cafe
+- Date and Time: Define depend on availability
+- Agenda: Topic or Demonstration
+- Meeting Minutes: Discussion, Conclusion, Next Step
+
+#### Online Meeting Timings Weekday IST.
+- Team A - Aditi, Varenya: 12-5PM 
+- Team B - Atharva, Sayee(offline): 12-5PM
+- Team C - Smit, Nikhil: 9-12PM  9-11PM
+
+#### Onsite - Team Meeting 2 Hours Weekend IST.
+- Team A - Aditi, Varenya : 11-1PM
+- Team B - Atharva, Sayee(DP) : 11-1PM
+- Team C - Smit, Nikhil  : 11-1PM
